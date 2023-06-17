@@ -24,18 +24,18 @@
         height: 2rem;
         margin-bottom: 0.5rem;
         abbr {
-          display: inline-block;
-          background-color: $primary;
-          padding-left: 0.5rem;
-          padding-right: 0.5rem;
-          margin-left: 0.1rem;
-          margin-right: 0.1rem;
-          a {
-            color: white;
-            &:hover {
-              text-decoration: none;
+            display: inline-block;
+	    color: $primary;
+	    border: solid 1px $primary;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-left: 0.1rem;
+            margin-right: 0.1rem;
+            a {
+		&:hover {
+		    text-decoration: none;
+		}
             }
-          }
         }
         .award {
           color: $primary !important;
@@ -112,11 +112,14 @@
 }
 
 .talk {
-    background-color: $primary;
+    color: $primary;
+    border: solid 1px $primary;
     margin-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
     transform: translateY(-10%);
-    color: $text-white;
     &:hover {
+	color: $primary;	
         text-decoration: none;
     }    
 }
