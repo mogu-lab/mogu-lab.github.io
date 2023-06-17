@@ -14,9 +14,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
 <script> new WOW().init(); </script>
 
-<!-- Initialize all tooltips -->
 <script>
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-})
+  // Initialize all tooltips
+  $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+  });
+
+  // Hide/show abstract and bibtex
+  $(document).ready(function() {
+    $('a.abstract').click(function() {
+        $(this).parent().parent().find(".abstract.hidden").toggleClass('open');
+    });
+    $('a.bibtex').click(function() {
+        $(this).parent().parent().find(".bibtex.hidden").toggleClass('open');
+    });
+  });
 </script>
