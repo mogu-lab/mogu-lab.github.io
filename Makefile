@@ -4,3 +4,6 @@ serve:
 install:
 	bundle install
 
+reinstall:
+	bundle update
+
