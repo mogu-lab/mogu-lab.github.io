@@ -5,3 +5,10 @@
 _site/
 Gemfile.lock
 .DS_Store
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+Gemfile.lock
+vendor
