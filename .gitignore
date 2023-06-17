@@ -2,3 +2,5 @@
 *.psd
 *.ai
 *~
+_site/
+Gemfile.lock
