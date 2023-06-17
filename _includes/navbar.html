@@ -55,6 +55,18 @@
 
       {% endfor %}
 
+      {% for account in site.author %}
+
+	{%- assign service_name = account[0] -%}
+	{%- assign service_data = site.data.social-media[service_name] -%}
+	{%- if service_data -%}    
+	<a target="_blank" class="nav-item nav-link"  href="{{ service_data.url }}{{ account[1] }}">
+	  <i class="{{ service_data.icon }} fa-1x"></i>
+	</a>
+	{%- endif -%}
+	
+      {% endfor %}
+	
       <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
     </div>
   </div>

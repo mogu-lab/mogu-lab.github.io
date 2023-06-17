@@ -5,7 +5,7 @@
     {%- assign service_name = account[0] -%}
     {%- assign service_data = site.data.social-media[service_name] -%}
     {%- if service_data -%}    
-    <a class="social mx-1 footer-link"  href="{{ service_data.url }}{{ account[1] }}">
+    <a target="_blank" class="social mx-1 footer-link"  href="{{ service_data.url }}{{ account[1] }}">
       <i class="{{ service_data.icon }} fa-1x"></i>
     </a>
     {%- endif -%}
