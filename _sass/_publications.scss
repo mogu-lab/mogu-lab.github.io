@@ -94,18 +94,19 @@
         }
       }
       .hidden.open {
-        max-height: 100em;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
-        transition: all 0.15s ease;
+	  margin: 10px 10px 10px 0px;	  	  	  
+          max-height: 100em;
+          transition-property: 1.0s ease;
+          -moz-transition: 1.0s ease;
+          -ms-transition: 1.0s ease;
+          -o-transition: 1.0s ease;
+          transition: all 1.0s ease;
       }
       div.abstract.hidden {
-        border: dashed 1px rgba(0, 0, 0, 0);
+          border: dashed 1px rgba(0, 0, 0, 0);
       }
       div.abstract.hidden.open {
-        border-color: $secondary;
+          border-color: $secondary;
       }
     }
   }
