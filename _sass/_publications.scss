@@ -54,26 +54,6 @@
       .title {
         font-weight: bolder;
       }
-      .author {
-        a {
-          &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
-          }
-
-        }
-	.undergrad {
-            //border-bottom: 1px dashed;
-	}
-	.masters {
-            //border-bottom: 1px dashed;
-	}	  
-	
-        > em {
-          border-bottom: 1px solid;
-          font-style: normal;
-        }
-      }
       .links {
         a.btn {
           color: var(--text-black);
