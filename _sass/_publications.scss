@@ -1,22 +1,13 @@
 
 .publications {
-  //margin-top: 2rem;
-  h1 {
-    color: var(--primary);
-    font-size: 2rem;
-    text-align: center;
-    //margin-top: 1em;
-    //margin-bottom: 1em;
-  }
   h2 {
-    //margin-bottom: 1rem;
     span {
       font-size: 1.5rem;
     }
   }
   h2.year {
-    color: var(--secondary);
-    border-top: 1px solid var(--secondary);
+    color: $secondary;
+    border-top: 1px solid $secondary;
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
@@ -34,7 +25,7 @@
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: var(--primary);
+          background-color: $primary;
           padding-left: 0.5rem;
           padding-right: 0.5rem;
           margin-left: 0.1rem;
@@ -47,34 +38,35 @@
           }
         }
         .award {
-          color: var(--primary) !important;
-          border: 1px solid var(--primary);
+          color: $primary !important;
+          border: 1px solid $primary;
         }
       }
       .title {
         font-weight: bolder;
       }
       .links {
-        a.btn {
-          color: var(--text-black);
-          border: 1px solid var(--text-black);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          &:hover {
-            color: var(--primary);
-            border-color: var(--primary);
+          a.btn {
+	      text-transform: uppercase;
+              color: $text-black;
+              border: 1px solid $text-black;
+              padding-left: 1rem;
+              padding-right: 1rem;
+              padding-top: 0.1rem;
+              padding-bottom: 0.1rem;
+              &:hover {
+		  color: $primary;
+		  border-color: $primary;
+              }
           }
-        }
       }
       .btn-disabled {
-          color: var(--text-black);
-          border: 1px solid var(--text-black);
+          color: $text-black;
+          border: 1px solid $text-black;
           padding-left: 1rem;
           padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;	  
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;	  
 	  opacity: 1.0;
 	  text-decoration: none;
 	  pointer-events: none;
@@ -110,10 +102,10 @@
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
-        border: dashed 1px var(--light);
+        border: dashed 1px rgba(0, 0, 0, 0);
       }
       div.abstract.hidden.open {
-        border-color: var(--text-black);
+        border-color: $secondary;
       }
     }
   }
@@ -123,7 +115,7 @@
     background-color: $primary;
     margin-left: 5px;
     transform: translateY(-10%);
-    color: white;
+    color: $text-white;
     &:hover {
         text-decoration: none;
     }    
