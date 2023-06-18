@@ -35,12 +35,12 @@
     transition: color 0.5s;
     
     &:hover {
-	color: $primary;
+	color: $dark;
 	text-decoration: none;	
     }
 }
 
 .footer-div {
-    background-color: $secondary;
+    background-color: $primary;
     color: $text-white;
 }
