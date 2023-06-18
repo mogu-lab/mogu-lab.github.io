@@ -10,6 +10,7 @@ const themes = {
 initTheme();
 
 function initTheme() {
+    /*
   const savedTheme = localStorage.getItem(STORAGE_KEY);
 
   if (savedTheme) {
@@ -28,14 +29,19 @@ function initTheme() {
     const newTheme = e.matches ? themes.DARK : themes.LIGHT;
     setTheme(newTheme);
   });
+  */
+
+  setTheme(themes.LIGHT);
 }
 
+/*
 function toggleTheme() {
   const theme = getTheme();
   const newTheme = theme === themes.DARK ? themes.LIGHT : themes.DARK;
   setTheme(newTheme);
   localStorage.setItem(STORAGE_KEY, newTheme);
 }
+*/
 
 function getTheme() {
   return document.documentElement.getAttribute(THEME_ATTR);
