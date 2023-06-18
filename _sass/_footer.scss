@@ -31,7 +31,7 @@
 
 
 .footer-link {
-    color: $text-black;
+    color: $text-white;
     transition: color 0.5s;
     
     &:hover {
@@ -42,5 +42,5 @@
 
 .footer-div {
     background-color: $secondary;
-    color: $text-black;
+    color: $text-white;
 }
