@@ -7,14 +7,36 @@ weight: 1
 
 # **About**
 
-The MOGU Lab.
+  <center>
+     <div id="venn"></div>
+     <script src="{{ '/assets/js/venn.js' | relative_url }}"></script>	
+     <script src="{{ '/assets/js/research-directions.js' | relative_url }}"></script>
+     <style>	     
+     	.venntooltip {
+	  position: absolute;
+	  text-align: left;
+	  width: 128px;
+	  height: 32px;
+	  background: #333;
+	  color: #ddd;
+	  padding: 10px;
+	  border: 0px;
+	  border-radius: 8px;
+	  opacity: 0;
+	  pointer-events: none;
+	}
+    </style>
+  </center>
 
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+<center>
+<style>
+.photo image {
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+}
+</style>
+<div id="research-directions"></div>
+<script src="{{ '/assets/js/radar.js' | relative_url }}"></script>	
+</center>
+
+
