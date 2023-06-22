@@ -45,7 +45,7 @@ drawRadar = function(data, params) {
 	  .attr("max-width", "620px")
 	  .attr("height", "450px")
 	  .attr("viewBox", [0, 0, width, height + (2 * margin)])
-	  .style("border-radius", "12px")
+	  .style("border-radius", "12px");
     
     let placement =  {
 	radius: (height - 2 * margin) / 2,
@@ -55,12 +55,12 @@ drawRadar = function(data, params) {
     
     let rScale = d3.scaleLinear() 
 	.domain([0, maxValue])
-	.range([0, placement.radius])
+	.range([0, placement.radius]);
     
     let radarLine = d3.lineRadial()
 	.curve(d3.curveLinearClosed)
 	.radius(d => rScale(d))
-	.angle((d, i) => i * angleSlice)
+	.angle((d, i) => i * angleSlice);
     
     const axisGrid = svg.append("g")
 	  .attr("class", "axisWrapper")
@@ -104,7 +104,7 @@ drawRadar = function(data, params) {
 	.attr("stroke", lineStroke)
 	.attr("stroke-dasharray", "5 5")
 	.append("path")
-	.attr("d", d => radarLine(d))
+	.attr("d", d => radarLine(d));
     
     // axis line
     let axisLine = axisGrid.selectAll(".axis-line")
@@ -157,14 +157,14 @@ drawRadar = function(data, params) {
 	      .selectAll("g")
 	      .data(data.map(d => ({ ...d, center: polygonCentroid(radarLine(d.score)) })))
 	      .enter()
-              .append("g")
+              .append("g");
         
 	const photos = photoGroup.append("image")
               .attr("x", (d) => d.center[0])
               .attr("y", (d) => d.center[1])
               .attr("xlink:href", d => d.photo)
               .attr("width", photoImgWidth)
-              .attr("transform", `translate(${-photoImgWidth / 2}, ${-photoImgWidth / 2})`)
+              .attr("transform", `translate(${-photoImgWidth / 2}, ${-photoImgWidth / 2})`);
 	
 	const borders = photoGroup.append("circle")
               .attr("cx", (d) => d.center[0])
@@ -172,7 +172,7 @@ drawRadar = function(data, params) {
               .attr("r", photoImgWidth / 2)
               .attr("fill", "none")
               .attr("stroke-width", 2)
-              .attr("stroke", "#fff")
+              .attr("stroke", "#fff");
 
 	photos.on("mouseenter", (curItem) => {
             borders
@@ -183,7 +183,9 @@ drawRadar = function(data, params) {
             shape.datum(curItem)
 		.transition()
 		.duration(1500) 
-		.attr("d", d => radarLine(d.score))
+		.attr("d", d => radarLine(d.score));
+
+	    //console.log(curItem);
 	})
 
     })
