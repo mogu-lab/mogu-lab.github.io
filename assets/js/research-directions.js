@@ -33,7 +33,7 @@ drawRadar = function(data, params) {
 	"Mental Health",
 	"Patient/Clinician Interaction with AI",
     ];
-    const venn = ["#FAA9B2", "#F8CD29", "#1D95BB"];
+    const venn = ["#826AED", "#2A9D8F", "#DB5461"];
     
     const maxValue = 100;
     const angleSlice = Math.PI * 2 / 3;
@@ -137,7 +137,8 @@ drawRadar = function(data, params) {
 	.text(d => d);
     
     const photoImgWidth = 48; 
-    const shapeColor = "#CF141E";
+    //const shapeColor = "#CF141E"; 
+    const shapeColor = "#007bff"; // primary color
     
     data().then(data => {
 	// shape
@@ -148,7 +149,7 @@ drawRadar = function(data, params) {
 	    .attr("stroke", shapeColor)
 	    .attr("stroke-width", 2)
 	    .attr("fill", shapeColor)
-	    .attr("fill-opacity", 0.25);
+	    .attr("fill-opacity", 0.3);
 	
 	// photos
 	const photoGroup = axisGrid.append("g")
@@ -177,7 +178,7 @@ drawRadar = function(data, params) {
             borders
 		.transition()
 		.duration(1500) 
-		.attr("stroke", (d) => curItem.photo === d.photo? "rgba(207,20,30,1)": "#fff");
+		.attr("stroke", (d) => curItem.photo === d.photo? shapeColor: "#fff");
 
             shape.datum(curItem)
 		.transition()
