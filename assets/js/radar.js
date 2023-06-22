@@ -190,19 +190,3 @@ drawRadar = function(data, params) {
     return svg.node();
 }
 
-star = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Five-pointed_star.svg/800px-Five-pointed_star.svg.png";
-triangle = "https://freepngimg.com/save/172344-triangle-silhouette-free-photo/2902x2172";
-
-data = async () => ([
-    { score: [0, 30, 70], description: "hola", photo: star },
-    { score: [100, 10, 10], description: "hey", photo: triangle },
-    { score: [0, 50, 50], description: "wassup", photo: star },
-    { score: [2, 10, 100], description: "omg", photo: star },
-    { score: [80, 30, 0], description: "hi", photo: star },
-    { score: [100, 100, 1], description: "hello", photo: star }
-]);
-
-
-radar = drawRadar(data, { height: 450, width: 620, margin: 10, axisTick: 6, vennRatio: 1.3 });
-
-d3.select('#research-directions').append(() => radar);
