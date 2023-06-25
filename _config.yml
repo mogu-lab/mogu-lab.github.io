@@ -52,9 +52,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
+  research:
     output: true
-    permalink: /projects/:name
+    permalink: /research/:name
 
 
 ### Disqus ###
@@ -83,7 +83,7 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "research"
     values:
       layout: "page"
   - scope:
