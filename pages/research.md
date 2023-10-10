@@ -8,7 +8,10 @@ remote_projects:
   - arduino-visitor-counter
 ---
 
-# **About**
+# **Research**
+
+Our research is focused on developing **new machine learning methods** to help us better **understand, predict and prevent suicide** and related behaviors. For **effective** and **responsible** uses of our methods in this domain, they must satisfy several desiderata:
+
 
 <center>
 <style>

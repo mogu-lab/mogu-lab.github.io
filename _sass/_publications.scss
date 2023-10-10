@@ -43,8 +43,7 @@
         }
       }
       .title {
-          font-weight: bolder;
-	  text-shadow: 0.04rem 0 $text-black;
+          font-weight: $bold-weight;
 	  letter-spacing: 0.03rem;
 	  margin-bottom: 5px;	  
       }

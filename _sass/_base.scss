@@ -4,7 +4,14 @@ html {
 
 body {
     font-family: "Poppins", sans-serif;
+    font-weight: $normal-weight;
+    color: $text-black;
     background-color: $site-background;
+}
+
+strong {
+    font-weight: $bold-weight;
+    color: $text-black;    
 }
 
 a {
@@ -12,7 +19,7 @@ a {
 }
 
 .badge {
-  font-weight: 500;
+  font-weight: $bold-weight;
 }
 
 .bg-light,
