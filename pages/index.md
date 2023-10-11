@@ -4,7 +4,13 @@ title: About
 permalink: /
 ---
 
-{% include landing.html %}
+<center>
+<img style="max-width: 300px;" src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
+
+<div markdown="1">
+We are the **Model-Guided Uncertainty (MOGU) Lab**.
+</div>
+</center>
 
 
 # About
@@ -13,7 +19,7 @@ permalink: /
 <div class="row">
 <div markdown="1" class="col col-sm-6 about-box">
 
-Our goal is to enable **effective** and **responsible** uses of expressive (deep) machine learning models in **safety-critical** domains like precision healthcare, in which increasing amounts of data hold the potential to improve human lives. Our research is especially focused on developing methods to help us better **understand, predict and prevent suicide** and related behaviors.    
+Our goal is to enable **effective** and **responsible** uses of expressive (deep) machine learning models in **safety-critical** domains like precision healthcare, in which increasing amounts of data hold the potential to improve human lives. Our research especially focuses on developing methods to help us better **understand, predict and prevent suicide** and related behaviors.    
 
 </div>
 <div class="col col-sm-6 about-box">
