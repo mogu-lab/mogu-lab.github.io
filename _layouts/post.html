@@ -28,12 +28,12 @@ layout: page
 
 </p>
 
-<div class="flex-shrink-0 container mt-5 markdown-body">
+<div>
   {{ content }}
 </div>
 
 {% if page.comments %}
 <div class="pt-5">
-  {% include blog/disqus.html %}
+  {% include tutorials/disqus.html %}
 </div>
 {% endif %}
