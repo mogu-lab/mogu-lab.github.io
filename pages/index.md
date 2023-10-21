@@ -51,7 +51,7 @@ We see clinicians' insights and lived experiences as invaluable. As such, our wo
 
 <div class="row">
 <div markdown="1" class="col col-sm-6 about-box">
-Our work focuses both on the nitty gritty details of the machine learning methodology, as well as on the broader **sociotechnical system** in which our methods will live. As such, we are equally as interested in ensuring our methods have the necessary **statistical properties** for good performance on their intended task, as well as the necessary **human-facing properties** to ensure clinicians/patients will use our method as intended.
+Our work focuses both on the nitty-gritty details of the machine learning methodology, as well as on the broader **sociotechnical system** in which our methods will live. As such, we are equally as interested in ensuring our methods have the necessary **statistical properties** for good performance on their intended task, as we are in ensuring they have the necessary **human-facing properties** for positive impact in their intended context. 
 </div>
 <div class="col col-sm-6 about-box">
 [Graphic]
