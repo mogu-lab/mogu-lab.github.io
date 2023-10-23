@@ -14,30 +14,29 @@ TODO
 
 **Why do research?**
 
-> TODO answer.
+> There are many reasons to do research.
+1. Personal fulfillment, development, and enjoyment: Research can be fun and enriching. It’s a great way to find immediate use and meaning for things you learned in the classroom, and to dive deeper.
+2. Career prospects: The skills you gain from research – like understanding scientific literature, making and evaluating scientific hypotheses, breaking big and complicated questions into small digestible ones, etc. – are generalizable. They will serve you well no matter what path you take after. 
+3. Responsible citizenship: Research teaches you ways in which to question and challenge what already exists. 
 
 
 **What background do I need?**
 
-> TODO answer.
+> That depends on the project you're most excited about! If you're excited about digging into data from our clinical collaborators, it's helpful to have taken an introductory machine learning / data science class. If you're excited about developing new machine learning methods to address the specific issues found in our clinical data, it's helpful to have taken a more advanced machine learning, statistics and/or math classes. If you're excited about research questions about how models will be used by clinicians/patients in context, it's helpful to have taken a human-computer interaction class. 
 
 
 **How do I pick the "right" research project?**
 
-> TODO answer.
-
-
-**What's it like doing research?**
-
-> TODO answer.
+> When picking a research project, it's easy to find ourselves either with a problem that's too difficult to solve, or one whose solution is (nearly) immediately clear (in which case, it may not be regarded as a contribution to "generalizable knowledge"). To find a problem that's "just right," it takes a lot of practice and experience. We will therefore help you find a project that matches both your background and your interests.
 
 
 **Am I "good enough" to do research?**
 
-> TODO answer.
+> Yes, you are good enough. If you don't think so, come talk to us and we'll prove you wrong! In contrast to popular thought, research is not about having "genius ideas" and "breakthroughs." Research is a slow, iterative, collaborative process in which we break big problems into smaller more digestible problems. It's about casting these problems into a lens that favors what you enjoy doing and what you feel like you are good at. If you can embrace this iterative process (with help from your mentors and peers, of course), you are certainly good enough to do research. 
 
 
 **I'm not sure I _love_ computer science, should I still do research?**
 
-> TODO answer.
+> Oftentimes, research questions transcend the boundaries of any specific field. And even within a single field, different subfields have very different flavors. By thinking about what aspects of a research project you might enjoy, we can find a research project that's appropriate for you. For example, you can ask yourself, how much of your research time do you want to: spend in front of a computer? use your hands? talk to people? write code? write prose? make visualizations? do math/stats? etc. 
+
 
