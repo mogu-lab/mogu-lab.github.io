@@ -3,11 +3,9 @@ title: A Primer on Suicide Research
 tags: [Mental Health]
 style: fill
 color: info
-description: A primer.
+description: A reading list to get you up to speed.
 ---
 
-
-TODO write.
 
 **The basics---terms, definitions, and rates:**
 * [Describing and Measuring the Pathway to Suicide Attempts: A Preliminary Study](https://nocklab.fas.harvard.edu/files/nocklab/files/millner_2016_pathway_suicideattempts_sltb.pdf)
@@ -24,7 +22,7 @@ TODO write.
 * TODO
 
 **Studying suicide "in the wild" with Ecological Momentary Assessment (EMA) studies:**
-* [Acceptability and feasibility of ecological momentary assessment with augmentation of passive sensor data in young adults at high risk for suicide](https://pubmed.ncbi.nlm.nih.gov/37487460/)
+* [Acceptability and feasibility of EMA with augmentation of passive sensor data in young adults at high risk for suicide](https://pubmed.ncbi.nlm.nih.gov/37487460/)
 
 **Working with self-reported data:**
 * [Feelings or Words? Understanding the Content in Self-Report Ratings of Experienced Emotion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351136/pdf/nihms2916.pdf)
