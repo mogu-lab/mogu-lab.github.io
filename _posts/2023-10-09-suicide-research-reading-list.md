@@ -6,8 +6,9 @@ color: info
 description: A reading list to get you up to speed.
 ---
 
-
 **The basics---terms, definitions, and rates:**
+* [Suicide among Youth: Epidemiology, (Potential) Etiology, and Treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867204/pdf/nihms906198.pdf)
+* [Self-Injury](https://projects.iq.harvard.edu/files/nocklab/files/nock_2010_self-injury_arcp_0.pdf)
 * [Describing and Measuring the Pathway to Suicide Attempts: A Preliminary Study](https://nocklab.fas.harvard.edu/files/nocklab/files/millner_2016_pathway_suicideattempts_sltb.pdf)
 * [Interventions for Suicide and Self-Injury: A Meta-Analysis of Randomized Controlled Trials Across Nearly 50 Years of Research](https://www.apa.org/pubs/journals/features/bul-bul0000305.pdf)
 
@@ -33,4 +34,6 @@ description: A reading list to get you up to speed.
 * [Mathematical and Computational Modeling of Suicide as a Complex Dynamical System](https://osf.io/preprints/psyarxiv/b29cs/)
 * [Advancing the Network Theory of Mental Disorders: A Computational Model of Panic Disorder](https://osf.io/preprints/psyarxiv/km37w/)
 
-**Acknowledgements:** Inspired by Matt Nock's course, Pych 1853 at Harvard.
+<br/>
+
+**Acknowledgements:** Inspired by Matt Nock's course, PSY 1853 at Harvard.
