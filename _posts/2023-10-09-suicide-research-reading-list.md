@@ -11,6 +11,7 @@ TODO write.
 
 **The basics---terms, definitions, and rates:**
 * [Describing and Measuring the Pathway to Suicide Attempts: A Preliminary Study](https://nocklab.fas.harvard.edu/files/nocklab/files/millner_2016_pathway_suicideattempts_sltb.pdf)
+* [Interventions for Suicide and Self-Injury: A Meta-Analysis of Randomized Controlled Trials Across Nearly 50 Years of Research](https://www.apa.org/pubs/journals/features/bul-bul0000305.pdf)
 
 **How to respectfully talk about suicide:**
 * [Words matter. Learning how to talk about suicide in a hopeful, respectful way has the power to save lives.](https://www.camh.ca/-/media/files/words-matter-suicide-language-guide.pdf)
@@ -28,5 +29,10 @@ TODO write.
 **Working with self-reported data:**
 * [Feelings or Words? Understanding the Content in Self-Report Ratings of Experienced Emotion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351136/pdf/nihms2916.pdf)
 * [The Ordinal Nature of Emotions](https://yannakakis.net/wp-content/uploads/2018/11/ordinal-nature-emotions.pdf)
+
+**Machine learning in context:**
+* [Implementing Machine Learning Models for Suicide Risk Prediction in Clinical Practice: Focus Group Study With Hospital Providers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8956996/pdf/formative_v6i3e30946.pdf)
+* [Mathematical and Computational Modeling of Suicide as a Complex Dynamical System](https://osf.io/preprints/psyarxiv/b29cs/)
+* [Advancing the Network Theory of Mental Disorders: A Computational Model of Panic Disorder](https://osf.io/preprints/psyarxiv/km37w/)
 
 **Acknowledgements:** Inspired by Matt Nock's course, Pych 1853 at Harvard.
