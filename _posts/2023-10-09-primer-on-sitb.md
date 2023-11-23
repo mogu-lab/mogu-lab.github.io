@@ -1,5 +1,5 @@
 ---
-title: A Primer on Suicide Research
+title: A Primer for Research on Self-Injurious Thoughts and Behaviors
 tags: [Mental Health]
 style: fill
 color: info
