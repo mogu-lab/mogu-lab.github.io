@@ -1,7 +1,3 @@
-"Yacoby":
-  - firstname: ["Yaniv", "Y."]
-    url: https://yanivyacoby.github.io/
-
 "Doshi-Velez":
   - firstname: ["Finale", "F."]
     url: https://finale.seas.harvard.edu/
@@ -75,3 +71,39 @@
 "Coker":
   - firstname: ["B.", "Beau"]
     url: https://beaucoker.github.io/
+
+"Wang":
+  - firstname: ["S.", "Shirley"]
+    url: https://shirleywang.rbind.io/
+
+"Bentley":
+  - firstname: ["K.", "Kate"]
+    url: https://depressionmgh.org/who-we-are/staff/kate-bentley-phd
+
+"Kleiman":
+  - firstname: ["E.", "Evan"]
+    url: https://kleimanlab.org/people/
+
+"Millner":
+  - firstname: ["A.", "Alex"]
+    url: https://alexmillner.com/
+
+"Fortgang":
+  - firstname: ["R.", "Rebecca"]
+    url: https://www.rebeccafortgang.com/
+
+"Smoller":
+  - firstname: ["J.", "Jordan", "J. W.", "Jordan W."]
+    url: https://smollerlab.org/our-team/
+
+"Zuromski":
+  - firstname: ["K.", "Kelly"]
+    url: https://www.kellyzuromski.com/
+
+"Nock":
+  - firstname: ["M.", "Matthew"]
+    url: https://nocklab.fas.harvard.edu/people
+    
+"van Genugten":
+  - firstname: ["R.", "Ruben"]
+    url: https://ruben.rbind.io/
