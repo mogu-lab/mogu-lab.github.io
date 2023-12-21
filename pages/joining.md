@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joining
+title: Joining & FAQs
 permalink: /joining/
 weight: 6
 ---
@@ -30,7 +30,7 @@ That depends on the project you're most excited about! If you're excited about d
 When picking a research project, it's easy to find ourselves either with a problem that's too difficult to solve, or one whose solution is (nearly) immediately clear (in which case, it may not be regarded as a contribution to "generalizable knowledge"). To find a problem that's "just right," it takes a lot of practice and experience. We will therefore help you find a project that matches both your background and your interests.
 
 
-# Am I "good enough" to do research?
+## Am I "good enough" to do research?
 
 Yes, you are good enough. If you don't think so, _come talk to us and we'll prove you wrong!_ In contrast to popular thought, research is not about having "genius ideas" and "breakthroughs." Research is a slow, iterative, collaborative process in which we break big problems into smaller more digestible problems. It's about casting these problems into a lens that favors what you enjoy doing and what you feel like you are good at. If you can embrace this iterative process (with help from your mentors and peers, of course), you are certainly good enough to do research. 
 
