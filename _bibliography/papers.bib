@@ -1,6 +1,17 @@
 ---
 ---
 
+@article{wang2023idiographic,
+  insubmission={no},
+  abbr={PsyArXiv},
+  title={Idiographic Prediction of Suicidal Thoughts: Building Personalized Machine Learning Models with Real-Time Monitoring Data},
+  author={Wang, Shirley and van Genugten, Ruben and Yacoby, Yaniv and Pan, Weiwei and Bentley, Kate and Bird, Suzanne and Buonopane, Ralph and Christie, Alexis and Daniel, Merryn and DeMarco, Dylan and Haim, Adam and Follet, Lia and Fortgang, Rebecca and Kelly, Flynn and Kleiman, Evan and Millner, Alex and Obi-Obasi, Onyinyechi and Onnela, Jukka-Pekka and Ramlal, Narise and Ricard, Jordyn and Smoller, Jordan W. and Tambedou, Tida and Zuromski, Kelly and Nock, Matthew},
+  year={2023},
+  journal={PsyArXiv},
+  abstract={Suicide risk is highest immediately after psychiatric hospitalization, but the field lacks methods for identifying which patients are at greatest risk, and when. We built personalized models predicting suicidal thoughts after psychiatric hospital visits (N=89 patients), using ecological momentary assessment (EMA; average EMA responses per participant=311). We built several idiographic models, including baseline autoregressive and elastic net models (using single train/test split) and Gaussian Process (GP) models (using an iterative rolling-forward prediction method). Simple GP models provided the best prediction of suicidal urges (R2_average of 0.17), outperforming baseline autoregressive (R2_average of 0.10) and elastic net (R2_average of 0.07) models. Similarly, simple GP models provided the best prediction of suicidal intent (R2_average of 0.12) compared to autoregressive (R2_average of 0.08) and elastic net (R2_average of 0.06). Findings suggest idiographic prediction of suicidal thoughts is possible, though accuracy currently is modest. Building GP models that iteratively update and learn symptom dynamics over time could provide important information to inform development of just-in-time adaptive interventions.},
+  pdf={https://osf.io/preprints/psyarxiv/qh4jk},
+}
+
 @article{yacoby2023cs290,
   abbr={SIGCSE},
   title={Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health},
@@ -11,6 +22,7 @@
   presentation_url={},  
   abstract={Doctoral programs often have high rates of depression, anxiety, isolation, and imposter phenomenon. Consequently, graduating students may feel inadequately prepared for research-focused careers, contributing to an attrition of talent. Prior work identifies an important contributing factor to maladjustment: that, even with prior exposure to research, entering Ph.D. students often have problematically idealized views of science. These preconceptions can become obstacles for students in their own professional growth. Unfortunately, existing curricular and extracurricular programming in many doctoral programs do not include mechanisms to systematically address students' misconceptions of their profession. In this work, we describe a new initiative at our institution that aims to address Ph.D. mental health via a mandatory seminar for entering doctoral students. The seminar is designed to build professional resilience in students by (1) increasing self-regulatory competence, and (2) teaching students to proactively examine academic cultural values, and to participate in shaping them. Our evaluation indicates that students improved in both areas after completing the seminar.},
   pdf={https://arxiv.org/abs/2208.12650},
+  selected={true},
 }
 
 @article{yao2022empirical,
@@ -53,11 +65,11 @@
 }
 
 @article{yacoby2020failure,
-  insubmission={yes},
-  abbr={JMLR, ICML UDL},
+  insubmission={no},
+  abbr={arXiv, ICML UDL},
   title={Failure Modes of Variational Autoencoders and Their Effects on Downstream Tasks},
   author={Yacoby, Yaniv and Pan, Weiwei and Doshi-Velez, Finale},
-  journal={JMLR},
+  journal={arXiv},
   year={2022},
   workshop_title={ICML UDL},
   workshop_year={2020},  
@@ -68,11 +80,11 @@
 
 
 @article{thakur2020uncertainty,
-  insubmission={yes},
-  abbr={JMLR, ICML UDL},
+  insubmission={no},
+  abbr={arXiv, ICML UDL},
   title={Uncertainty-Aware (UNA) Bases for Deep Bayesian Regression Using Multi-Headed Auxiliary Networks},
   author={*Thakur, Sujay and *Lorsung, Cooper and *Yacoby, Yaniv and Doshi-Velez, Finale and Pan, Weiwei},
-  journal={JMLR},
+  journal={arXiv},
   year={2022},
   workshop_title={ICML UDL},
   workshop_year={2020},    
@@ -116,8 +128,7 @@
   abstract={Variational Auto-encoders (VAEs) are deep generative latent variable models consisting of two components: a generative model that captures a data distribution p(x) by transforming a distribution p(z) over latent space, and an inference model that infers likely latent codes for each data point. Recent work shows that traditional training methods tend to yield solutions that violate modeling desiderata: (1) the learned generative model captures the observed data distribution but does so while ignoring the latent codes, resulting in codes that do not represent the data; (2) the aggregate of the learned latent codes does not match the prior p(z). This mismatch means that the learned generative model will be unable to generate realistic data with samples from p(z). In this paper, we demonstrate that both issues stem from the fact that the global optima of the VAE training objective often correspond to undesirable solutions. Our analysis builds on two observations: (1) the generative model is unidentifiable - there exist many generative models that explain the data equally well, each with different (and potentially unwanted) properties and (2) bias in the VAE objective - the VAE objective may prefer generative models that explain the data poorly but have posteriors that are easy to approximate. We present a novel inference method, LiBI, mitigating the problems identified in our analysis. On synthetic datasets, we show that LiBI can learn generative models that capture the data distribution and inference models that better satisfy modeling assumptions when traditional methods struggle to do so.},
   pdf={https://arxiv.org/abs/2003.07756},
   presentation_type={Spotlight Talk},
-  presentation_url={},
-  selected={true},
+  presentation_url={},  
   note={Additionally selected for publication @ <em>PMLR</em> 2019 <abbr class="badge talk">Top 33\%</abbr>},
 }
 
