@@ -14,10 +14,10 @@ TODO
 
 ## Why do research?
 
-There are many reasons to do research:
-1. Personal fulfillment, development, and enjoyment: Research can be fun and enriching. It’s a great way to find immediate use and meaning for things you learned in the classroom, and to dive deeper.
-2. Career prospects: The skills you gain from research – like understanding scientific literature, making and evaluating scientific hypotheses, breaking big and complicated questions into small digestible ones, etc. – are generalizable. They will serve you well no matter what path you take after. 
-3. Responsible citizenship: Research teaches you ways in which to question and challenge what already exists. 
+There are many reasons to do research, including:
+1. **Personal fulfillment, development, and enjoyment:** Research can be fun and enriching. It’s a great way to find immediate use and meaning for things you learned in the classroom, and to dive deeper.
+2. **Career prospects:** The skills you gain from research – like understanding scientific literature, making and evaluating scientific hypotheses, breaking big and complicated questions into small digestible ones, etc. – are generalizable. They will serve you well no matter what path you take after. 
+3. **Responsible citizenship:** Research teaches you ways in which to question and challenge what already exists. 
 
 
 ## What background do I need?
@@ -32,7 +32,7 @@ When picking a research project, it's easy to find ourselves either with a probl
 
 ## Am I "good enough" to do research?
 
-Yes, you are good enough. If you don't think so, _come talk to us and we'll prove you wrong!_ In contrast to popular thought, research is not about having "genius ideas" and "breakthroughs." Research is a slow, iterative, collaborative process in which we break big problems into smaller more digestible problems. It's about casting these problems into a lens that favors what you enjoy doing and what you feel like you are good at. If you can embrace this iterative process (with help from your mentors and peers, of course), you are certainly good enough to do research. 
+Yes, you are good enough. If you don't think so, _come talk to us and we'll prove you wrong!_ In contrast to popular thought, research is not about having "genius ideas" and "breakthroughs." Research is a slow, iterative, collaborative process in which we break big problems into smaller, more digestible problems. It's about casting these problems into a lens that favors what you enjoy doing and what you feel like you are good at. If you can embrace this iterative process (with help from your mentors and peers, of course), you are certainly good enough to do research. 
 
 
 ## I'm not sure I _love_ computer science, should I still do research?
