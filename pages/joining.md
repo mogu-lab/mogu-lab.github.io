@@ -7,14 +7,14 @@ weight: 6
 
 # **How to join?**
 
-Email Yaniv to ask about current research opportunities. Please include the following info:
+If you're potentially interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. There are **no wrong answers** to these questions---they'll just help us find a project that's good for you:
+
 1. Having browsed this website, what topics you most interested in?
-2. What are you hoping to get out of a research experience (e.g. experiences, skills, career prospects, thesis, anything else that comes to mind)?
+2. What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, anything else that comes to mind)?
 3. Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
 4. What's your intended time commitment (e.g. how many hours per week for how many weeks)?
 5. Anything else you want to share or that will be helpful for us to know.
 
-There are **no wrong answers** to these questions; they just help us find a project that's good for you.
 
 
 # **Frequently Asked Questions**
@@ -30,6 +30,11 @@ There are many reasons to do research, including:
 ## What background do I need?
 
 That depends on the project you're most excited about! If you're excited about digging into data from our clinical collaborators, it's helpful to have taken an introductory machine learning / data science class. If you're excited about developing new machine learning methods to address the specific issues found in our clinical data, it's helpful to have taken a more advanced machine learning, statistics and/or math classes. If you're excited about research questions about how models will be used by clinicians/patients in context, it's helpful to have taken a human-computer interaction class. 
+
+
+## What's it like doing research at MOGU Lab?
+
+We recommend reaching out to [current students](/people/) to learn more about their projects and their experiences!
 
 
 ## How do I pick the "right" research project?
