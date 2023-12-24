@@ -1,13 +1,19 @@
 ---
 layout: page
-title: Joining & FAQs
+title: Joining
 permalink: /joining/
 weight: 6
 ---
 
 # **How to join?**
 
-TODO
+Email Yaniv to ask about current research opportunities. Please include the following info:
+1. Having browsed this website, what topics you most interested in?
+2. What are you hoping to get out of a research experience (e.g. experiences, skills, career prospects, thesis, anything else that comes to mind)?
+3. Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
+4. Anything else you want to share or that will be helpful for us to know.
+
+There are **no wrong answers** to these questions; they just help us find a project that's good for you.
 
 
 # **Frequently Asked Questions**
