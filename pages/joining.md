@@ -11,7 +11,8 @@ Email Yaniv to ask about current research opportunities. Please include the foll
 1. Having browsed this website, what topics you most interested in?
 2. What are you hoping to get out of a research experience (e.g. experiences, skills, career prospects, thesis, anything else that comes to mind)?
 3. Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
-4. Anything else you want to share or that will be helpful for us to know.
+4. What's your intended time commitment (e.g. how many hours per week for how many weeks)?
+5. Anything else you want to share or that will be helpful for us to know.
 
 There are **no wrong answers** to these questions; they just help us find a project that's good for you.
 
