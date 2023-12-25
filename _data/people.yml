@@ -1,0 +1,34 @@
+- section: "Members"
+  members:
+    - name: Yaniv Yacoby
+      title: Principal Investigator
+      affiliation: Wellesley College
+      site: https://yanivyacoby.github.io/
+      image: /assets/img/people/yaniv.png
+      
+
+- section: "Collaborators"
+  members:
+    - name: Finale Doshi-Velez
+      title: Professor of Computer Science
+      affiliation: Harvard University    
+      site: https://finale.seas.harvard.edu/
+      image: /assets/img/people/finale.png
+    - name: Matt Nock
+      title: Professor of Psychology     
+      affiliation: Harvard University        
+      site: https://nocklab.fas.harvard.edu/people
+      image: /assets/img/people/placeholder.png
+    - name: Shirley Wang
+      title: Professor of Psychology     
+      affiliation: Yale University
+      site: https://shirleywang.rbind.io/
+      image: /assets/img/people/placeholder.png
+    - name: Weiwei Pan
+      title: Assistant Director for Graduate Studies in Data Science
+      affiliation: Harvard University    
+      site: https://onefishy.github.io/
+      image: /assets/img/people/weiwei.png
+
+
+

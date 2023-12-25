@@ -4,6 +4,12 @@ title: About
 permalink: /
 ---
 
+
+<div class="alert alert-warning" role="alert">
+  <strong>Note:</strong> this website is still under construction!
+</div>
+
+
 <center>
 <img style="max-width: 300px;" src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
 
