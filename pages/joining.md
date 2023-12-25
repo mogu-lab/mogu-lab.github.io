@@ -7,13 +7,14 @@ weight: 6
 
 # **How to join?**
 
-If you're potentially interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. There are **no wrong answers** to these questions---they'll just help us find a project that's good for you:
+If you're potentially interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. There are **no wrong answers** to these questions---they'll just help us find the right project for you.
 
-1. Having browsed this website, what topics you most interested in?
-2. What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, anything else that comes to mind)?
-3. Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
-4. What's your intended time commitment (e.g. how many hours per week for how many weeks)?
-5. Anything else you want to share or that will be helpful for us to know.
+> **Questions:**
+1. **Topic:** Having browsed this website, what topics you most interested in?
+2. **Goals:** What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, anything else that comes to mind)?
+3. **Experience:** Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
+4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks)?
+5. **Catch-all:** Anything else you want to share or that will be helpful for us to know.
 
 
 
