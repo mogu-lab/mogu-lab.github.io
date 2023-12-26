@@ -5,6 +5,14 @@
       affiliation: Wellesley College
       site: https://yanivyacoby.github.io/
       image: /assets/img/people/yaniv.png
+    - name: Mogu
+      title: Lab Mascot & Supreme Leader
+      affiliation: Wellesley College
+      image: /assets/img/people/mogu.png
+    - name: Nuomi
+      title: Mogu's Henchman & Director of Lab Spirit
+      affiliation: Wellesley College
+      image: /assets/img/people/nuomi.png
       
 
 - section: "Collaborators"
