@@ -13,7 +13,7 @@ If you're potentially interested in working with us, email [Yaniv](https://yaniv
 1. **Topic:** Having browsed this website, what topics you most interested in?
 2. **Goals:** What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, anything else that comes to mind)?
 3. **Experience:** Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
-4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks)?
+4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks, how many classes are you taking, do you have other research commitments)?
 5. **Catch-all:** Anything else you want to share or that will be helpful for us to know.
 
 
