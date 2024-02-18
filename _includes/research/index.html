@@ -2,7 +2,6 @@
 <div class="projects">
 <div class="card-columns">
 
-  <!-- Remote Projects -->
   {% for remote_project in page.remote_projects %}
 
     {%- for repo in site.github.public_repositories -%}
@@ -35,7 +34,6 @@
 
   {% endfor %}
 
-  <!-- Local Projects -->
   {% for project in site.research %}
 
     {%- assign project_type  = "local" -%}
@@ -59,3 +57,4 @@
 
 </div>
 </div>
+
