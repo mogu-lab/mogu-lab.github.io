@@ -20,6 +20,13 @@ Our research is focused on developing **new machine learning methods** to help u
 
 Our research therefore lies in the various **intersections** of these three spheres: 
 
+
+<img src="/assets/img/research-interests.svg" />
+
+<br/>
+
+
+<!--
 <center>
 <style>
 .photo image {
@@ -52,3 +59,4 @@ d3.select('#research-directions').append(() => radar);
 # **Projects**
 
 {% include research/index.html %}
+-->

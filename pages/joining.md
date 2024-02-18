@@ -7,7 +7,7 @@ weight: 6
 
 # **How to join?**
 
-If you're potentially interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. There are **no wrong answers** to these questions---they'll just help us find the right project for you.
+If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. This will help us find the right project for you.
 
 > **Questions:**
 1. **Topic:** Having browsed this website, what topics you most interested in?
