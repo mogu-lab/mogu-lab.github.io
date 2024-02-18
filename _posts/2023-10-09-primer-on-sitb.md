@@ -3,7 +3,7 @@ title: A Primer for Research on Self-Injurious Thoughts and Behaviors
 tags: [Mental Health]
 style: fill
 color: info
-description: A reading list to get you up to speed.
+description: Are you new to research on self-injurious thoughts and behaviors (SITBs)? This reading list will help you get started.
 ---
 
 **The basics---terms, definitions, and rates:**
