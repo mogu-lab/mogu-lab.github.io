@@ -3,19 +3,21 @@ title: A Guide to Success in Research
 tags: [Academic Culture]
 style: fill
 color: danger
-description: You will face many challenges as a researcher. Oftentimes these challenges will not come from the places where you expect. For example, many of the challenges will not come from the technical work (e.g. math, coding), but from the psychological challenges. Here, we outline these challenges and provide a guide to overcoming them.
+description: Many researchers find that their hardest struggles stem less from the technical duties of their jobs (e.g. math and coding), and more from the mental obstacles they must overcome as researchers. Here, we highlight several sources of challenges and provide a guide to overcoming them.
 ---
 
 
-**About:** You will face many challenges as a researcher. Oftentimes these challenges will not come from the places where you expect.
-Many of the challenges will not come from the technical work (e.g. math, coding), but from the psychological challenges.
-Here, we highlight three sources of challenges, and provide a guide to overcoming them:
+
+
+**About:** Many researchers find that their hardest struggles stem less from the technical duties of their jobs (e.g. math and coding), and more from the mental obstacles they must overcome as researchers.
+Here, we highlight several sources of challenges and provide a guide to overcoming them.
+This guide has three parts:
 
 1. [What should you expect from yourself?](#part1)
 2. [What does your research advisor expect from you?](#part2)
 3. [How can you be supportive of your peers?](#part3)
 
-Students from underrepresented minority groups (URM students) face additional challenges. While we hope to (very broadly) address some of these challenges here with concrete advice and a (non-exhaustive) list of resources, this is a diverse and deep topic that warrants its own guide. 
+Students from underrepresented minority groups (URM students) face additional challenges than those described here. While we hope to (very broadly) address some of these challenges here with concrete advice and a (non-exhaustive) list of resources, this is a diverse and deep topic that warrants its own guide. 
 
 
 
