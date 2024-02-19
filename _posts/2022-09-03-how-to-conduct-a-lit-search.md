@@ -17,7 +17,7 @@ Conducting a literature search is **hard** for several reasons!
 * Moreover, you may find it takes you a **long time** to read even single paper. This may leave you wondering how to sift through tens to hundreds of them? 
 * Lastly, even when focusing on a single paper, you may find it difficult to discern which **parts** of a technical paper relate to your problem and how.
 
-Especially at the start of your Ph.D., the above difficulties are **normal** and **expected**;
+Especially at the start of your research career, the above difficulties are **normal** and **expected**;
 through **deliberate** and **guided** practice, you will improve at these skills. 
 In this guide, we provide you with a strategy to get you started.
 

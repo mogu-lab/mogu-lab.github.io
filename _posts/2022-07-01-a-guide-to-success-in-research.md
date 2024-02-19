@@ -288,7 +288,7 @@ Many of us have been trained to lead with our strengths -- to portray ourselves 
 While leading strengths is a useful skill, it can also hinder us from building supportive research communities. 
 When we're surrounded by people who only lead with their strengths, it's easy to slip into a dark mindset in which you feel like you're not meeting your expectations for yourself, 
 and in which everyone around you is more successful and well-balanced.
-And while in [Section 1](#part1), we encouraged you to set reasonable expectations for yourself based on your stage in the program;
+And while in [Section 1](#part1), we encouraged you to set reasonable expectations for yourself based on your stage of development as a researcher,
 here we encourage you to think about how you can help shape your peers' self-expectations for the better.
 Even in the most ordinary hallway interaction -- when you're asked "how are you?" on your way to class -- your response matters!
 We encourage you to be as honest as you feel comfortable about your experience; 
@@ -335,7 +335,7 @@ In order for us to create a supportive and welcoming community, we all need to s
 # Conclusion
 
 **Set reasonable expectations for yourself.**
-A PhD is a long process -- no one expects you to come in knowing everything.
+Learning how to do research takes time -- no one expects you to come in knowing everything.
 Set healthy and reasonable expectations for yourself based on _where_ you are in the process. 
 
 **Learn what your advisor's expectations are.**
