@@ -1,42 +1,66 @@
 - section: "Members"
   members:
     - name: Yaniv Yacoby
+      pronouns: he/him
       title: Principal Investigator
       affiliation: Wellesley College
       site: https://yanivyacoby.github.io/
       image: /assets/img/people/yaniv.png
-    - name: Mogu
-      title: Lab Mascot & Supreme Leader
-      affiliation: Wellesley College
-      image: /assets/img/people/mogu.png
-    - name: Nuomi
-      title: Mogu's Henchman & Director of Lab Spirit
-      affiliation: Wellesley College
-      image: /assets/img/people/nuomi.png
+    - name: Emilia Mazzolenis
+      pronouns: she/her    
+      title: Data Science Master's Student
+      affiliation: Harvard University
+      site: https://www.linkedin.com/in/maria-emilia-mazzolenis
+      image: /assets/img/people/emilia-mazzolenis.png
+    - name: Frank Cheng
+      pronouns: he/him    
+      title: Data Science Master's Student
+      affiliation: Harvard University
+      image: /assets/img/people/frank-cheng.png
+    - name: Hope Neveux
+      pronouns: she/her    
+      title: Data Science Master's Student
+      affiliation: Harvard University
+      site: http://linkedin.com/in/hopeneveux
+      image: /assets/img/people/hope-neveux.png      
+    - name: Kimberly Llajaruna Peralta
+      pronouns: she/her        
+      title: Data Science Master's Student
+      affiliation: Harvard University
+      site: https://www.linkedin.com/in/kllajaruna
+      image: /assets/img/people/kim-peralta.png
+    - name: Michael Sam
+      pronouns: he/him    
+      title: Data Science Master's Student
+      affiliation: Harvard University
+      site: https://www.linkedin.com/in/michael-sam-c/
+      image: /assets/img/people/michael-sam.png
       
 
 - section: "Collaborators"
   members:
     - name: Finale Doshi-Velez
+      pronouns: she/her        
       title: Professor of Computer Science
       affiliation: Harvard University    
       site: https://finale.seas.harvard.edu/
       image: /assets/img/people/finale.png
     - name: Matt Nock
+      pronouns: he/him    
       title: Professor of Psychology     
       affiliation: Harvard University        
       site: https://nocklab.fas.harvard.edu/people
-      image: /assets/img/people/placeholder.png
+      image: /assets/img/people/matthew.png
     - name: Shirley Wang
+      pronouns: she/her        
       title: Professor of Psychology     
       affiliation: Yale University
       site: https://shirleywang.rbind.io/
       image: /assets/img/people/placeholder.png
     - name: Weiwei Pan
+      pronouns: she/her        
       title: Assistant Director for Graduate Studies in Data Science
       affiliation: Harvard University    
       site: https://onefishy.github.io/
       image: /assets/img/people/weiwei.png
-
-
 
