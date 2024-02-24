@@ -29,7 +29,7 @@ Our goal is to enable **effective** and **responsible** uses of expressive (deep
 
 </div>
 <div class="col-lg-6 about-box">
-[Graphic]
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_01.jpg" />
 </div>
 </div>
 
@@ -40,7 +40,7 @@ We work closely with **clinical collaborators** in the Boston area, including at
 
 </div>
 <div class="col-lg-6 about-box">
-[Graphic]
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_02.jpg" />
 </div>
 </div>
 
@@ -51,7 +51,7 @@ We see clinicians' insights and lived experiences as invaluable. As such, our wo
 
 </div>
 <div class="col-lg-6 about-box">
-[Graphic]
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_03.jpg" />
 </div>
 </div>
 
@@ -60,13 +60,11 @@ We see clinicians' insights and lived experiences as invaluable. As such, our wo
 Our work focuses both on the nitty-gritty details of the machine learning methodology, as well as on the broader **sociotechnical system** in which our methods will live. As such, we are equally as interested in ensuring our methods have the necessary **statistical properties** as we are in the necessary **human-facing properties** for good performance on their intended task and positive impact in their intended context. 
 </div>
 <div class="col-lg-6 about-box">
-[Graphic]
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_04.jpg" />
 </div>
 </div>
 
 </div>
 
-
-
-
+<br/>
 
