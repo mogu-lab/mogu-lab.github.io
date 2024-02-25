@@ -3,24 +3,16 @@ html {
 }
 
 body {
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-weight: $normal-weight;
-    font-size: $font-size;
     color: $text-black;
     background-color: $site-background;
 }
 
 strong {
-    font-weight: $bold-weight;
     color: $text-black;    
 }
 
-a {
-    color: $primary;
-}
-
 .badge {
-  font-weight: $bold-weight;
+    font-weight: $font-weight-normal;
 }
 
 .bg-light,

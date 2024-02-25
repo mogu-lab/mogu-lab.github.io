@@ -32,15 +32,14 @@
 
 .footer-link {
     color: $text-white;
-    transition: color 0.5s;
     
     &:hover {
-	color: $dark;
-	text-decoration: none;	
+	color: $text-white;
+	text-decoration: none;
     }
 }
 
 .footer-div {
-    background-color: $primary;
+    background-color: #2645a0;
     color: $text-white;
 }

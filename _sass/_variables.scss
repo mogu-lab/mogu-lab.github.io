@@ -1,12 +1,23 @@
+// Note: override bootstrap defauls from:
+// https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
 $primary:   #007bff;
-//$primary: #d81b60;
 $secondary: #6c757d;
-$success:   #28a745;
-$info:      #17a2b8;
-$warning:   #ffc107;
-$danger:    #dc3545;
+$success:   #71b39b;
+$info:      #578199;
+$warning:   #a2a334;
+$danger:    #de55a7;
 $light:     #f8f9fa;
 $dark:      #343a40;
+
+//$primary:   #007bff;
+//$secondary: #6c757d;
+//$success:   #28a745;
+//$info:      #17a2b8;
+//$warning:   #ffc107;
+//$danger:    #dc3545;
+//$light:     #f8f9fa;
+//$dark:      #343a40;
 
 $text-black: #343a40;
 $text-white: rgba(white, .9);
@@ -14,12 +25,25 @@ $text-black-muted: rgba(0, 0, 0, 0.57);
 
 $rounded-borders: 15px;
 
-//$site-background: #acedc3;
-//$site-background: #a9def2;
 $site-background: #ffffff;
 
+// Links
+//$link-color: $danger;
+//$link-shade-percentage: 20%;
+//$link-hover-color: shift-color($link-color, $link-shade-percentage);
+//$link-hover-decoration: null;
 
-// Font weights
-$normal-weight: 300;
-$bold-weight: 600;
-$font-size: 1.1rem;
+
+// Font 
+$font-family-base: "Barlow Semi Condensed", sans-serif;
+$font-size-base: 1.1rem;
+$font-weight-base: 300;
+
+$font-weight-lighter: 100;
+$font-weight-light: 200;
+$font-weight-normal: 300;
+$font-weight-medium: 400;
+$font-weight-semibold: 450;
+$font-weight-bold: 500;
+$font-weight-bolder: 600;
+
