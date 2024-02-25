@@ -11,4 +11,4 @@ Gemfile.lock
 .jekyll-metadata
 .ruby-version
 Gemfile.lock
-vendor
+vendor/bundle
