@@ -11,7 +11,7 @@ permalink: /
 
 
 <center>
-<img style="max-width: 300px;" src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
+<img style="max-width: 300px;" src="{{ site.author.image }}" alt="MOGU Lab Logo" class="circle-image">
 
 <div markdown="1">
 **We are the Model-Guided Uncertainty (MOGU) Lab**.
@@ -29,7 +29,7 @@ Our goal is to enable **effective** and **responsible** uses of expressive (deep
 
 </div>
 <div class="col-lg-6 about-box">
-<img class="about-img" style="margin: 0px;" src="/assets/img/about_01.jpg" />
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_01.jpg" alt="Illustration of cats working on research together at MOGU Lab" />
 </div>
 </div>
 
@@ -40,7 +40,7 @@ We work closely with **clinical collaborators** in the Boston area, including at
 
 </div>
 <div class="col-lg-6 about-box">
-<img class="about-img" style="margin: 0px;" src="/assets/img/about_02.jpg" />
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_02.jpg" alt="Illustration of cats working on research together at MOGU Lab" />
 </div>
 </div>
 
@@ -51,7 +51,7 @@ We see clinicians' insights and lived experiences as invaluable. As such, our wo
 
 </div>
 <div class="col-lg-6 about-box">
-<img class="about-img" style="margin: 0px;" src="/assets/img/about_03.jpg" />
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_03.jpg" alt="Illustration of cats working on research together at MOGU Lab" />
 </div>
 </div>
 
@@ -60,7 +60,7 @@ We see clinicians' insights and lived experiences as invaluable. As such, our wo
 Our work focuses both on the nitty-gritty details of the machine learning methodology, as well as on the broader **sociotechnical system** in which our methods will live. As such, we are equally as interested in ensuring our methods have the necessary **statistical properties** as we are in the necessary **human-facing properties** for good performance on their intended task and positive impact in their intended context. 
 </div>
 <div class="col-lg-6 about-box">
-<img class="about-img" style="margin: 0px;" src="/assets/img/about_04.jpg" />
+<img class="about-img" style="margin: 0px;" src="/assets/img/about_04.jpg" alt="Illustration of cats working on research together at MOGU Lab" />
 </div>
 </div>
 
