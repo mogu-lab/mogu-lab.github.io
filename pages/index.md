@@ -18,7 +18,7 @@ permalink: /
 <div class="col-lg-6 about-box">
 
 <center>
-<img style="max-width: 350px;" src="{{ site.author.image }}" alt="MOGU Lab Logo" class="circle-image">
+<img style="max-width: 350px;" src="{{ site.author.image }}" alt="MOGU Lab Logo">
 </center>
 
 </div>
