@@ -5,18 +5,26 @@ permalink: /
 ---
 
 
-<div class="alert alert-warning" role="alert">
-  <strong>Note:</strong> this website is still under construction!
+<div class="container">
+<div class="row align-items-center">
+<div markdown="1" class="col-lg-6 about-box">
+
+<div>
+<span style="font-size: 32px; font-weight: 400;">We are the</span><br/>
+<span style="font-size: 64px; font-weight: 500;">Model-Guided<br/>Uncertainty Lab</span>
 </div>
 
+</div>
+<div class="col-lg-6 about-box">
 
 <center>
-<img style="max-width: 300px;" src="{{ site.author.image }}" alt="MOGU Lab Logo" class="circle-image">
-
-<div markdown="1">
-**We are the Model-Guided Uncertainty (MOGU) Lab**.
-</div>
+<img style="max-width: 350px;" src="{{ site.author.image }}" alt="MOGU Lab Logo" class="circle-image">
 </center>
+
+</div>
+</div>
+</div>
+
 
 
 # About
