@@ -10,8 +10,10 @@ permalink: /
 <div markdown="1" class="col-lg-6 about-box">
 
 <div>
-<span style="font-size: 32px; font-weight: 400;">We are the</span><br/>
-<span style="font-size: 64px; font-weight: 500;">Model-Guided<br/>Uncertainty Lab</span>
+<center>
+<span style="font-size:calc(100% + 1.5vw); font-weight: 400;">We are the...</span><br/>
+<span style="font-size:calc(100% + 4.0vw); font-weight: 550;">Model-Guided<br/>Uncertainty Lab</span>
+</center>
 </div>
 
 </div>
