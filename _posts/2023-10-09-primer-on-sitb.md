@@ -38,7 +38,7 @@ description: Are you new to research on self-injurious thoughts and behaviors (S
 * Advancing the Network Theory of Mental Disorders: A Computational Model of Panic Disorder [[link](https://osf.io/preprints/psyarxiv/km37w/)]
 * Racial/Ethnic Disparities in the Performance of Prediction Models for Death by Suicide After Mental Health Visits [[link](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2778923)]
 
-**Treatment for suicide:**
+**Suicide prevention and treatment:**
 * Psychological Approaches to Suicide Treatment and Prevention [[link](https://link.springer.com/content/pdf/10.1007/s40501-015-0064-3.pdf)]
 
 <br/>
