@@ -17,12 +17,12 @@ description: Are you new to research on self-injurious thoughts and behaviors (S
 * Language matters: how should we talk about suicide? [[link](https://www.nationalelfservice.net/mental-health/suicide/language-matters-how-should-we-talk-about-suicide/)]
 
 **Is talking about suicide / suicide risk assessment iatrogenic?**
-* TODO 
+* On the Iatrogenic Risk of Assessing Suicidality: A Meta-Analysis [[link](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sltb.12368?casa_token=fZPUuDJGDx8AAAAA:-qfbOH5pCQomF2LJ1TvSsa-5Usa0XbVXOF2EWCRlMahLug399qcRCdUy8WLgKIr9V7rgW3eFz-vuz1U)]
 
 **Why do people kill themselves?**
 * Advancing the Understanding of Suicide: The Need for Formal Theory and Rigorous Descriptive Research [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7429350/pdf/nihms-1607402.pdf)]
 
-**Suicide, self-harm and identity:**
+**Suicide, self-harm, and identity:**
 * TODO
 
 **Studying suicide "in the wild" with Ecological Momentary Assessment (EMA) studies:**
@@ -32,11 +32,14 @@ description: Are you new to research on self-injurious thoughts and behaviors (S
 * Feelings or Words? Understanding the Content in Self-Report Ratings of Experienced Emotion [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351136/pdf/nihms2916.pdf)]
 * The Ordinal Nature of Emotions [[link](https://yannakakis.net/wp-content/uploads/2018/11/ordinal-nature-emotions.pdf)]
 
-**Machine learning in context:**
+**Machine Learning in context:**
 * Implementing Machine Learning Models for Suicide Risk Prediction in Clinical Practice: Focus Group Study With Hospital Providers [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8956996/pdf/formative_v6i3e30946.pdf)]
 * Mathematical and Computational Modeling of Suicide as a Complex Dynamical System [[link](https://osf.io/preprints/psyarxiv/b29cs/)]
 * Advancing the Network Theory of Mental Disorders: A Computational Model of Panic Disorder [[link](https://osf.io/preprints/psyarxiv/km37w/)]
+* Racial/Ethnic Disparities in the Performance of Prediction Models for Death by Suicide After Mental Health Visits [[link](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2778923)]
 
+**Treatment for suicide:**
+* Psychological Approaches to Suicide Treatment and Prevention [[link](https://link.springer.com/content/pdf/10.1007/s40501-015-0064-3.pdf)]
 
 <br/>
 
