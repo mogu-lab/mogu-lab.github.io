@@ -11,8 +11,8 @@ permalink: /
 
 <div>
 <center>
-<span style="font-size:calc(100% + 1.5vw); font-weight: 400;">We are the...</span><br/>
-<span style="font-size:calc(100% + 4.0vw); font-weight: 550;">Model-Guided<br/>Uncertainty Lab</span>
+<span style="font-size:calc(100% + 1.0vw); font-weight: 400;">We are the...</span><br/>
+<span style="font-size:calc(100% + 4.5vw); font-weight: 550;">Model-Guided<br/>Uncertainty Lab</span>
 </center>
 </div>
 
@@ -20,13 +20,12 @@ permalink: /
 <div class="col-lg-6 about-box">
 
 <center>
-<img style="max-width: 350px;" src="{{ site.author.image }}" alt="MOGU Lab Logo">
+<img style="max-width: 320px;" src="{{ site.author.image }}" alt="MOGU Lab Logo">
 </center>
 
 </div>
 </div>
 </div>
-
 
 
 # About
