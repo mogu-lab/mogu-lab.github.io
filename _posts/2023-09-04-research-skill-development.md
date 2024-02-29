@@ -1,5 +1,5 @@
 ---
-title: Taking Ownership of Your Research Growth
+title: Taking Ownership of Your Research Development
 tags: [Research Skill-Building]
 style: fill
 color: success
