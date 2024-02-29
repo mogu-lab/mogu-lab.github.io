@@ -53,3 +53,4 @@ Yes, you are good enough. If you don't think so, _come talk to us and we'll prov
 Oftentimes, research questions transcend the boundaries of any specific field. And even within a single field, different subfields have very different flavors. By thinking about what aspects of a research project you might enjoy, we can find a research project that's appropriate for you. For example, you can ask yourself, how much of your research time do you want to: spend in front of a computer? use your hands? talk to people? write code? write prose? make visualizations? do math/stats? etc. 
 
 
+<br/>

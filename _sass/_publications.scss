@@ -90,6 +90,7 @@
         p {
           line-height: 1.4em;
           margin: 10px;
+	  font-size: 1.0em;
         }
         pre {
           font-size: 1em;
@@ -100,11 +101,11 @@
       .hidden.open {
 	  margin: 10px 10px 10px 0px;	  	  	  
           max-height: 100em;
-          transition-property: 1.0s ease;
-          -moz-transition: 1.0s ease;
-          -ms-transition: 1.0s ease;
-          -o-transition: 1.0s ease;
-          transition: all 1.0s ease;
+          transition-property: 0.15s linear;
+          -moz-transition: 0.15s linear;
+          -ms-transition: 0.15s linear;
+          -o-transition: 0.15s linear;
+          transition: all 0.15s linear;
       }
       div.abstract.hidden {
           border: dashed 1px rgba(0, 0, 0, 0);
