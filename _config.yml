@@ -6,7 +6,7 @@ baseurl             : ""                                # Change to empty quotes
 repository          : mogu-lab/mogu-lab.github.io       # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                              # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+keywords            : Machine Learning, ML, Artificial Intelligence, AI, Mental Health, Suicide, Self-Injurious Thoughts and Behaviors, SITBs, Latent Variable Models, Bayesian Machine Learning, Generative Models, Research, Wellesley College, Computer Science
 
 # Jekyll Sitemap 
 url: "https://mogu-lab.github.io" 
@@ -28,7 +28,7 @@ nav_exclude:                                       # The following paths are exc
 
 ### Author Info ###
 author:
-  name              : MOGU Lab
+  name              : Yaniv Yacoby
   image             : /assets/img/lab-logo.png
 #  behance           : your_username
 # dribbble          : your_username
