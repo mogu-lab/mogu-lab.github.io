@@ -124,3 +124,7 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+
+# Jekyll Sitemap 
+url: "https://mogu-lab.github.io" 
