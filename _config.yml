@@ -8,6 +8,10 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                              # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
+# Jekyll Sitemap 
+url: "https://mogu-lab.github.io" 
+
+
 ### Plugins ###
 jekyll-plugins:
   - jemoji
@@ -126,5 +130,3 @@ scholar:
   query: "@*"
 
 
-# Jekyll Sitemap 
-url: "https://mogu-lab.github.io" 
