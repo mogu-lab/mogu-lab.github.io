@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /publications
 weight: 3
 years: [2023, 2022, 2020, 2019]
 ---

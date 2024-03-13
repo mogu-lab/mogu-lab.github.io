@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joining
-permalink: /joining/
+permalink: /joining
 weight: 6
 ---
 
