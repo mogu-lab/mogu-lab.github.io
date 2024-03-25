@@ -10,7 +10,7 @@ weight: 6
 ## Undergraduate Students at Wellesley
 
 <div class="alert alert-warning" role="alert">
-We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. 
+<strong>Update:</strong> We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. 
 </div>
 
 If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you.
@@ -24,7 +24,7 @@ If you're interested in working with us, email [Yaniv](https://yanivyacoby.githu
 
 ## Prospective Ph.D. Students and Postdocs
 
-We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. Both the Ph.D. students and the postdocs will be housed at DTAK. 
+We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. Both the Ph.D. students and the postdocs will be housed at DTAK. 
 
 **Prospective Ph.D. Students:** We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's SEAS. 
 
