@@ -7,15 +7,13 @@ weight: 6
 
 # **How to join?**
 
-If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities.
-
 ## Undergraduate Students at Wellesley
 
-```{warning}
+<div class="alert alert-warning" role="alert">
 We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. 
-```
+</div>
 
-For undergraduate students interested in working with us, please include the answers to the questions below. This will help us find the right project for you.
+If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you.
 
 > **Questions:**
 1. **Topic:** Having browsed this website, what topics are you most interested in?
@@ -26,11 +24,11 @@ For undergraduate students interested in working with us, please include the ans
 
 ## Prospective Ph.D. Students 
 
-We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025, **co-advised** by MOGU Lab, and the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard. The Ph.D. student will be housed at DTAK. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's School of Engineering and Applied Sciences. 
+We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. The student will be **co-advised** by the PIs of three labs: MOGU Lab, the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) (both at Harvard). The Ph.D. student will be housed at DTAK. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's School of Engineering and Applied Sciences. 
 
 ## Prospective Postdoctoral Fellow
 
-We are looking to recruit one postdoctoral fellow, **co-advised** by MOGU Lab, and the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard. The fellow will be housed at DTAK. Pending funding, we hope for the position to start in/after the Fall of 2025.
+We are looking to recruit one postdoc, to be **co-advised** by the PIs of three labs: MOGU Lab, the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) (both at Harvard). The postdoc will be housed at DTAK. Pending funding, we hope for the position to start in/after the Fall of 2025. Interested postdocs with funding (e.g. like from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/)) are encouraged to reach out. 
 
 
 # **Frequently Asked Questions**
