@@ -7,15 +7,30 @@ weight: 6
 
 # **How to join?**
 
-If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. In your email, please include the answers to the questions below. This will help us find the right project for you.
+If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities.
+
+## Undergraduate Students at Wellesley
+
+```{warning}
+We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. 
+```
+
+For undergraduate students interested in working with us, please include the answers to the questions below. This will help us find the right project for you.
 
 > **Questions:**
-1. **Topic:** Having browsed this website, what topics you most interested in?
-2. **Goals:** What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, anything else that comes to mind)?
-3. **Experience:** Do you have any related experiences (e.g. coursework, internship, RA-ship, anything else)?
+1. **Topic:** Having browsed this website, what topics are you most interested in?
+2. **Goals:** What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, or anything else that comes to mind)?
+3. **Experience:** Do you have any related experiences (e.g. coursework, internship, RA-ship, or anything else)?
 4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks, how many classes are you taking, do you have other research commitments)?
 5. **Catch-all:** Anything else you want to share or that will be helpful for us to know.
 
+## Prospective Ph.D. Students 
+
+We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025, **co-advised** by MOGU Lab, and the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard. The Ph.D. student will be housed at DTAK. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's School of Engineering and Applied Sciences. 
+
+## Prospective Postdoctoral Fellow
+
+We are looking to recruit one postdoctoral fellow, **co-advised** by MOGU Lab, and the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard. The fellow will be housed at DTAK. Pending funding, we hope for the position to start in/after the Fall of 2025.
 
 
 # **Frequently Asked Questions**
