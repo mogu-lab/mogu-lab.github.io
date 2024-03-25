@@ -24,11 +24,11 @@ If you're interested in working with us, email [Yaniv](https://yanivyacoby.githu
 
 ## Prospective Ph.D. Students 
 
-We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. The student will be **co-advised** by the PIs of three labs: MOGU Lab, the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) (both at Harvard). The Ph.D. student will be housed at DTAK. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's School of Engineering and Applied Sciences. 
+We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. The student will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK)](https://dtak.github.io/) and [Nock](https://nocklab.fas.harvard.edu/) labs Harvard. The Ph.D. student will be housed at DTAK. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's School of Engineering and Applied Sciences. 
 
-## Prospective Postdoctoral Fellow
+## Prospective Postdoctoral Fellows
 
-We are looking to recruit one postdoc, to be **co-advised** by the PIs of three labs: MOGU Lab, the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) and the [Nock Lab](https://nocklab.fas.harvard.edu/) (both at Harvard). The postdoc will be housed at DTAK. Pending funding, we hope for the position to start in/after the Fall of 2025. Interested postdocs with funding (e.g. like from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/)) are encouraged to reach out. 
+We are looking to recruit one postdoc, to be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK)](https://dtak.github.io/) and [Nock](https://nocklab.fas.harvard.edu/) labs Harvard. The Ph.D. student will be housed at DTAK. The postdoc will be housed at DTAK. Pending funding, we hope for the position to start in/after the Fall of 2025. Interested postdocs with funding (e.g. like from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/)) are encouraged to reach out. 
 
 
 # **Frequently Asked Questions**
