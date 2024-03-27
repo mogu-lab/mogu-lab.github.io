@@ -9,8 +9,8 @@ weight: 6
 
 ## Undergraduate Students at Wellesley
 
-<div class="alert alert-warning" role="alert">
-<strong>Update:</strong> We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. 
+<div class="alert alert-warning" role="alert" markdown="1">
+**Update:** We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. Exceptions might be made for students with specific backgrounds that align with already-existing projects. If you'd like to be notified when we start looking, please fill out [this form](https://forms.gle/YvYvkvRA3RWDLax58).
 </div>
 
 If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you.
