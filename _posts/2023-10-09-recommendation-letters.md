@@ -1,5 +1,5 @@
 ---
-title: How to Get a "Good" Recommendation Letter
+title: How to Get a Good Recommendation Letter
 tags: [Professional Development]
 style: fill
 color: dark
@@ -13,8 +13,6 @@ description: Asking for recommendation letters can be stressful and awkward. Thi
 # Asking for a recommendation letter
 
 
-Your recommendation letter writers are probably incredibly busy, and will likely have to write many letters for different students in the same season. It's therefore helpful if you approach them ahead of time (months ahead if possible) in the most direct way possible.
-
 **Timing:** Your recommendation letter writers are probably incredibly busy, and will likely have to write many letters for different students in the same season. It's therefore helpful if you approach them ahead of time (months ahead if possible) to see if (a) they'd be willing to recommend you, and (b) so you can agree on a timeline (when do they need to see all of your application materials).
 
 **Asking:** It's best to ask directly if the letter writer thinks they can write you a *good* letter of recommendation. Asking in this way does you both a favor: it's difficult to write a not-so-good recommendation letter, and such a letter may do more harm than good. Of course, it is expected that not all recommendation letters are of equal quality, and that's ok! For example, if you're applying to Ph.D. programs, your research mentor will likely write a stronger letter for you than a mentor with whom you've only taken a class. It may also be helpful for your letter writer to know who else you're planning to ask for a letter, and which aspects of your background they will highlight.
@@ -24,13 +22,13 @@ Your recommendation letter writers are probably incredibly busy, and will likely
 # Helping your recommender by staying organized
 
 
-**Materials:** Send your recommender all of your application materials several weeks ahead of time. This should include:
+**Materials:** Send your recommender all of your application materials several weeks ahead of the deadline. This should include:
 * Statement of purpose, research plans, cover letter, etc.
 * CV/resume
 * Unofficial transcript
 * A list of other professional activities: for example,
-  * Thesis (if you've done a thesis with another faculty)---summarize what was it about? what did you discover?
-  * If you've already graduated, information about your jobs post-graduation---what have you been up to?
+  * Thesis (if you've done a thesis with another faculty)---summarize it was about? what did you discover?
+  * If you've already graduated, provide information about your jobs post-graduation---what have you been up to?
 * A short, concise description of:
   * What you're applying to
   * What types of candidates they are looking for
@@ -39,7 +37,7 @@ Your recommendation letter writers are probably incredibly busy, and will likely
 * Anything unusual that needs to be discussed in the letter (e.g. if you got a low grade in one class and need it explained)
 
 
-**Reminders:** Your recommender is likely super busy, and will appreciate your help to make sure the letter is sent on time. As such, please ask your recommender when they would like to be reminded to submit the letter: 1 day before? 1 week before? 2 weeks before? All of the above?
+**Reminders:** Your recommender will appreciate your help to make sure the letter is sent on time. As such, please ask your recommender when they would like to be reminded to submit the letter: 1 day before? 1 week before? 2 weeks before? All of the above?
 
 
 **Organization:** Especially if you're asking for letters for multiple places (e.g. multiple graduate programs), create a spreadsheet that includes all of the information needed to submit your letter and send it to your letter writer *ahead of time*. This should include:
@@ -73,7 +71,7 @@ You can use the following as a template for your spreadsheet:
 * Classes (when did you take the classes? what was your grade? what was your final project on?)
 * Research (when did you get involved in research? what was your project on?)
 
-Although this information is already included in your CV, having descriptions in propose, is extremely helpful for your letter writer!
+Although this information is already included in your CV, having descriptions in prose is extremely helpful for your letter writer!
 
 **Details:** For each of the items in the summary, list anything that might be noteworthy. This list should include both accomplishments (e.g. got a good grade in a class, submitted a research paper to a workshop, etc.), as well as experiences highlighting important character traits (e.g. how you creatively approached a problem, how you overcame a struggle, etc.). Here are examples of things to include:
 * A final project you've gone above and beyond on
@@ -81,6 +79,9 @@ Although this information is already included in your CV, having descriptions in
 
 
 Again, your list should only be about professional activities related to your letter writer (e.g. classes/research with them).
+
+
+**Additional information:** You may also wish to provide details about activities unrelated to the letter writer in case it's helpful for them. For example, if you've participated in outreach, volunteer work, etc. please provide a summary about your involvement. 
 
 
 <br/>
