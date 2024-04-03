@@ -51,7 +51,7 @@ MOGU Lab at Wellesley College is focused on enabling **effective** and **respons
 <div class="row">
 <div markdown="1" class="col-lg-6 about-box">
 
-We work closely with **clinical collaborators** in the Boston area, including at Mass General Hospital, Franciscan Children's, and Harvard's Medical School and Department of Psychology, to develop **new machine learning methodology** that addresses the unique challenges found in their data. 
+Although based at Wellesley College, we work closely with **clinical collaborators** in the Boston area, including at Mass General Hospital, and Harvard's Medical School and Department of Psychology, to develop **new machine learning methodology** that addresses the unique challenges found in their data. 
 
 </div>
 <div class="col-lg-6 about-box">
