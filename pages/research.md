@@ -18,10 +18,13 @@ Our research is focused on developing **new machine learning methods** to help u
 
 3. **Socio-technical System:** Developing principled methods that are grounded in domain expertise is not enough without understanding how these systems would be used in *context*. As such, it is important to us to understand the needs, constraints, and challenges faced by our end-users and stakeholders. By considering this broader sociotechnical context, we hope to anticipate potential pitfalls – whether ethical, social, cultural, etc. – and to address them proactively. 
 
-Our research therefore lies in the various **intersections** of these three spheres: 
+Our research therefore lies in the various **intersections** of these three areas: 
+* Deep Bayesian and Probabilistic Machine Learning
+* Clinical Psychology
+* Human Computer Interaction
 
 
-<img src="/assets/img/research-interests.svg" />
+<!-- <img src="/assets/img/research-interests.svg" /> -->
 
 <br/>
 

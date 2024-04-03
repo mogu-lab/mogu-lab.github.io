@@ -37,7 +37,7 @@ permalink: /
 <div class="row">
 <div markdown="1" class="col-lg-6 about-box">
 
-MOGU Lab at Wellesley College is focused on enabling **effective** and **responsible** uses of expressive (deep) machine learning models in **safety-critical** domains like precision healthcare, in which increasing amounts of data hold the potential to improve human lives. Our research specifically focuses on developing methods to help us better **understand, predict, and prevent suicide** and related behaviors.    
+MOGU Lab is a Machine Learning (ML) laboratory at Wellesley College, focused on enabling **effective** and **responsible** uses of expressive (deep) ML models in **safety-critical** domains like precision healthcare. Our research specifically focuses on developing methods to help us better **understand, predict, and prevent suicide** and related behaviors.
 
 </div>
 <div class="col-lg-6 about-box">
@@ -51,7 +51,7 @@ MOGU Lab at Wellesley College is focused on enabling **effective** and **respons
 <div class="row">
 <div markdown="1" class="col-lg-6 about-box">
 
-Although based at Wellesley College, we work closely with **clinical collaborators** in the Boston area, including at Mass General Hospital, and Harvard's Medical School and Department of Psychology, to develop **new machine learning methodology** that addresses the unique challenges found in their data. 
+Although based at Wellesley College, we work closely with **clinical collaborators** in the Boston area, including at Mass General Hospital, and Harvard's Medical School and Department of Psychology, to develop **new ML methodology** that addresses the unique challenges found in their data. 
 
 </div>
 <div class="col-lg-6 about-box">
@@ -65,7 +65,7 @@ Although based at Wellesley College, we work closely with **clinical collaborato
 <div class="row">
 <div markdown="1" class="col-lg-6 about-box">
 
-We see clinicians' insights and lived experiences as invaluable. As such, our work **does not** look to replace clinicians, but instead, to develop effective **clinician-AI collaboration** by finding new ways to **meaningfully incorporate** their expertise into our methods.
+We see clinicians' insights and lived experiences as invaluable. As such, our work **does not** look to replace clinicians, but instead, to develop effective **clinician-AI collaboration** by finding new ways to **meaningfully incorporate** their expertise into ML systems.
 
 </div>
 <div class="col-lg-6 about-box">
