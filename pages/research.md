@@ -21,7 +21,7 @@ Our research is focused on developing **new machine learning methods** to help u
 Our research therefore lies in the various **intersections** of these three areas: 
 * Deep Bayesian and Probabilistic Machine Learning
 * Clinical Psychology
-* Human Computer Interaction
+* Clinician/Patient-AI Interaction
 
 
 <!-- <img src="/assets/img/research-interests.svg" /> -->
