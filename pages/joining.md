@@ -20,8 +20,9 @@ If you're interested in working with us, email [Yaniv](https://yanivyacoby.githu
 2. **Goals:** What are you hoping to get out of a research experience (e.g. curious about trying something new, developing skills, career prospects, thesis, or anything else that comes to mind)?
 3. **Experience:** Do you have any related experiences (e.g. coursework, internship, RA-ship, or anything else)?
 4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks, how many classes are you taking, do you have other research commitments)?
-5. **Catch-all:** Anything else you want to share or that will be helpful for us to know.
+5. **Catch-all:** Anything else you want to share or that will be helpful for us to know?
 
+<!--
 ## Prospective Ph.D. Students and Postdocs
 
 We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. Both the Ph.D. students and the postdocs will be housed at DTAK. 
@@ -29,10 +30,27 @@ We are looking to recruit Ph.D. students and postdocs for positions that will be
 **Prospective Ph.D. Students:** We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's SEAS. 
 
 **Prospective Postdocs:** Pending funding, we hope for the postdoc position to start in/after the Fall of 2025. Interested postdocs who have already secured funding (e.g. from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/)) are encouraged to reach out. 
+-->
+
 
 <br/>
 
 # **Frequently Asked Questions**
+
+## What opportunities for funding are there at Wellesley College?
+
+There are a [number of opportunities](https://www1.wellesley.edu/sciencecenter/students/opportunities) that can fund you to do research with us, both throughout the semester, and throughout the summer. As an example, these include:
+* **Clare Boothe Luce Program:** for rising juniors from groups traditionally underrepresented in the Computational and Physical Sciences, looking for research mentorship and support during the summer before and throughout your junior year.
+* **Science Center Summer Research Program:** for all students who will be continuing their studies at Wellesley in the following academic year.
+
+In addition to the above programs, we also have some of our own funding to support students who want to work with us.
+
+
+
+## What background do I need?
+
+That depends on the project you're most excited about! If you're excited about digging into data from our clinical collaborators, it's helpful to have taken an introductory machine learning / data science class. If you're excited about developing new machine learning methods to address the specific issues found in our clinical data, it's helpful to have taken a more advanced machine learning, statistics and/or math classes. If you're excited about research questions about how models will be used by clinicians/patients in context, it's helpful to have taken a human-computer interaction class. 
+
 
 ## Why do research?
 
@@ -40,11 +58,6 @@ There are many reasons to do research, including:
 1. **Personal fulfillment, development, and enjoyment:** Research can be fun and enriching. It’s a great way to find immediate use and meaning for things you learned in the classroom, and to dive deeper.
 2. **Career prospects:** The skills you gain from research – like understanding scientific literature, making and evaluating scientific hypotheses, breaking big and complicated questions into small digestible ones, etc. – are generalizable. They will serve you well no matter what path you take after. 
 3. **Responsible citizenship:** Research teaches you ways in which to question and challenge what already exists. 
-
-
-## What background do I need?
-
-That depends on the project you're most excited about! If you're excited about digging into data from our clinical collaborators, it's helpful to have taken an introductory machine learning / data science class. If you're excited about developing new machine learning methods to address the specific issues found in our clinical data, it's helpful to have taken a more advanced machine learning, statistics and/or math classes. If you're excited about research questions about how models will be used by clinicians/patients in context, it's helpful to have taken a human-computer interaction class. 
 
 
 ## What's it like doing research at MOGU Lab?

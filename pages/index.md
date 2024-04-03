@@ -37,7 +37,7 @@ permalink: /
 <div class="row">
 <div markdown="1" class="col-lg-6 about-box">
 
-Our goal is to enable **effective** and **responsible** uses of expressive (deep) machine learning models in **safety-critical** domains like precision healthcare, in which increasing amounts of data hold the potential to improve human lives. Our research specifically focuses on developing methods to help us better **understand, predict, and prevent suicide** and related behaviors.    
+MOGU Lab at Wellesley College is focused on enabling **effective** and **responsible** uses of expressive (deep) machine learning models in **safety-critical** domains like precision healthcare, in which increasing amounts of data hold the potential to improve human lives. Our research specifically focuses on developing methods to help us better **understand, predict, and prevent suicide** and related behaviors.    
 
 </div>
 <div class="col-lg-6 about-box">
