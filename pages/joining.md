@@ -29,7 +29,7 @@ We are looking to recruit Ph.D. students and postdocs for positions that will be
 
 **Prospective Ph.D. Students:** We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's SEAS. 
 
-**Prospective Postdocs:** Pending funding, we hope for the postdoc position to start in/after the Fall of 2025. Interested postdocs who have already secured funding (e.g. from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/)) are encouraged to reach out. 
+**Prospective Postdocs:** Pending funding, we hope for the postdoc position to start in/after the Fall of 2025. Interested postdocs who have already secured or are in the process of securing funding (e.g. from [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/apply)) are encouraged to reach out. 
 -->
 
 
