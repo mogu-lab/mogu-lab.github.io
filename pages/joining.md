@@ -10,7 +10,7 @@ weight: 6
 ## Undergraduate Students at Wellesley
 
 <div class="alert alert-warning" role="alert" markdown="1">
-**Update:** We will start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. If you'd like to be notified when we start looking, please fill out [this form](https://forms.gle/YvYvkvRA3RWDLax58).
+**Update:** We're thrilled to start recruiting interested undergraduate students sometime mid Fall 2024 to start research in the Spring of 2025. If you'd like to be notified when we start looking, please fill out [this form](https://forms.gle/YvYvkvRA3RWDLax58)!
 </div>
 
 If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you.
@@ -37,14 +37,18 @@ We are looking to recruit Ph.D. students and postdocs for positions that will be
 
 # **Frequently Asked Questions**
 
-## What opportunities for funding are there at Wellesley College?
+## What are research opportunities for Wellesley College students?
 
-There are a [number of opportunities](https://www1.wellesley.edu/sciencecenter/students/opportunities) that can fund you to do research with us, both throughout the semester, and throughout the summer. As an example, these include:
-* **Clare Boothe Luce Program:** for rising juniors from groups traditionally underrepresented in the Computational and Physical Sciences, looking for research mentorship and support during the summer before and throughout your junior year.
-* **Science Center Summer Research Program:** for all students who will be continuing their studies at Wellesley in the following academic year.
+There are a number of ways you can get involved in research at MOGU Lab:
+* You can do an independent study with us (e.g. CS 250, CS 350)
+* You can write a thesis with us
+* You can work with us during the summer (and get paid)
+  * We have funding to pay students a summer stipend.
+  * There are also several wonderful opportunities to get a summer stipend through Wellesley / the Science Center. As an example, these include:
+    * **Clare Boothe Luce Program:** for rising juniors from groups traditionally underrepresented in the Computational and Physical Sciences, looking for research mentorship and support during the summer before and throughout your junior year.
+    * **Science Center Summer Research Program:** for all students who will be continuing their studies at Wellesley in the following academic year.
 
-In addition to the above programs, we also have some of our own funding to support students who want to work with us.
-
+If you have any questions about which opportunity most makes sense for you, don't hesitate to reach out!
 
 
 ## What background do I need?
