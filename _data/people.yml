@@ -2,7 +2,7 @@
   members:
     - name: Yaniv Yacoby
       pronouns: he/him
-      title: Principal Investigator
+      title: Assistant Professor of Computer Science / PI
       affiliation: Wellesley College
       site: https://yanivyacoby.github.io/
       image: /assets/img/people/yaniv.png
@@ -18,16 +18,28 @@
       image: /assets/img/people/matthew.png
     - name: Shirley Wang
       pronouns: she/her        
-      title: Professor of Psychology     
+      title: Assistant Professor of Psychology     
       affiliation: Yale University
       site: https://ccslab.yale.edu/
       image: /assets/img/people/shirley.png
+    - name: Vinitha Gadiraju
+      pronouns: she/her        
+      title: Assistant Professor of Computer Science
+      affiliation: Wellesley College
+      site: https:https://www.wellesley.edu/people/vinitha-gadiraju
+      image: /assets/img/people/vinitha-gadiraju.png      
     - name: Finale Doshi-Velez
       pronouns: she/her        
       title: Professor of Computer Science
       affiliation: Harvard University    
       site: https://finale.seas.harvard.edu/
       image: /assets/img/people/finale.png
+    - name: Jasmin Brooks Stephens
+      pronouns: she/her        
+      title: Assistant Professor of Psychology
+      affiliation: UC Berkeley
+      site: https://jasminbrooks.com/
+      image: /assets/img/people/jasmin-brooks-stephens.png      
     - name: Weiwei Pan
       pronouns: she/her        
       title: Assistant Director for Graduate Studies in Data Science
