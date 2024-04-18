@@ -52,6 +52,7 @@ from your mentors in hope to help you understand different professional paths:
 * Most Ph.Ds aren't professors [[link](https://medium.com/bits-and-behavior/most-ph-d-s-arent-professors-13a741ef6868){:target="_blank"}{:rel="noopener noreferrer"}]
 * Why it is not a 'failure' to leave academia [[link](https://www.nature.com/articles/d41586-018-05838-y){:target="_blank"}{:rel="noopener noreferrer"}]
 * The Jobs I Didn't See: My Misconceptions of the Academic Job Market [[link](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422){:target="_blank"}{:rel="noopener noreferrer"}]
+* Teaching and Research in Computer Science at Liberal Arts Colleges: Myths and Reality [[link](https://cs.whitman.edu/~davisj/pubs/liberal-arts-myths-realities.pdf){:target="_blank"}{:rel="noopener noreferrer"}]
 
 
 # Power Dynamics and Research in Context
