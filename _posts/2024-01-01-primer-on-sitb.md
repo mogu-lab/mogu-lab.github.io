@@ -21,6 +21,7 @@ description: Are you new to research on self-injurious thoughts and behaviors (S
 * On the Iatrogenic Risk of Assessing Suicidality: A Meta-Analysis [[link](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sltb.12368?casa_token=fZPUuDJGDx8AAAAA:-qfbOH5pCQomF2LJ1TvSsa-5Usa0XbVXOF2EWCRlMahLug399qcRCdUy8WLgKIr9V7rgW3eFz-vuz1U)]
 * The benefits and risks of asking research participants about suicide: A meta-
 analysis of the impact of exposure to suicide-related content [[link](https://pubmed.ncbi.nlm.nih.gov/30014862/)]
+* Role of media reports in completed and prevented suicide: Werther v. Papageno effects [[link](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/role-of-media-reports-in-completed-and-prevented-suicide-werther-v-papageno-effects/DFF62CAE7A44147EE9CAB4DFB50B49F0)]
 
 **Why do people kill themselves?**
 * Advancing the Understanding of Suicide: The Need for Formal Theory and Rigorous Descriptive Research [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7429350/pdf/nihms-1607402.pdf)]
