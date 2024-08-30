@@ -24,6 +24,8 @@ Our research therefore lies in the various **intersections** of these three area
 * Clinician/Patient-AI Interaction
 
 
+<img src="/assets/img/mogu-with-computer.png" />
+
 <!-- <img src="/assets/img/research-interests.svg" /> -->
 
 <br/>
