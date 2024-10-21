@@ -10,7 +10,7 @@ weight: 6
 ## Undergraduate Students at Wellesley
 
 <div class="alert alert-warning" role="alert" markdown="1">
-**Update:** We're currently looking for students to join us. If you're interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeTT0wh4oioq5A-hPSiipXk4Gh22u2rUD_m5WGRkyN3A_7rpA/viewform?usp=sf_link) by **Sunday, October 27, 2024 at midnigh**.
+**Update:** We're currently looking for students to join us. If you're interested, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeTT0wh4oioq5A-hPSiipXk4Gh22u2rUD_m5WGRkyN3A_7rpA/viewform?usp=sf_link) by **Sunday, October 27, 2024 at midnight**.
 </div>
 
 If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you.
