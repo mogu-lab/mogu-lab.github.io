@@ -1,4 +1,4 @@
-# MOGU Lab Website 
+# MOGU Lab Website
 
 Adapted from the following template: 
 * [Demo](https://YoussefRaafatNasry.github.io/portfolYOU/)
