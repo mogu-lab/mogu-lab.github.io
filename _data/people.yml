@@ -18,7 +18,13 @@
       affiliation: Wellesley College
       site: 
       image: /assets/img/people/annie-chen.png
-      
+    - name: Jane Liu '26
+      pronouns: she/her
+      title: CS Major
+      affiliation: Wellesley College
+      site: 
+      image: /assets/img/people/placeholder05.png
+
 
 - section: "Collaborators"
   members:
