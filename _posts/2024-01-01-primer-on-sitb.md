@@ -6,6 +6,9 @@ color: info
 description: Are you new to research on self-injurious thoughts and behaviors (SITBs)? This reading list will help you get started.
 ---
 
+
+<br/>
+
 > **Note:** For any article you have trouble accessing, let me know and I'll upload it [here](https://drive.google.com/drive/u/1/folders/13QKbm69au2sN4e4iI7lQaj4TR4T2hI1D). 
 
 <br/>
