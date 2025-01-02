@@ -6,6 +6,11 @@ color: info
 description: Are you new to research on self-injurious thoughts and behaviors (SITBs)? This reading list will help you get started.
 ---
 
+
+> **Note:** For any article you have trouble accessing, let me know and I'll upload it [here](https://drive.google.com/drive/folders/1O4y3bGguaoqH1RRIFmiYftumlE89-lxc?usp=drive_link). 
+
+
+
 **The basics---terms, definitions, and rates:**
 * Suicide among Youth: Epidemiology, (Potential) Etiology, and Treatment [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5867204/pdf/nihms906198.pdf)]
 * Self-Injury [[link](https://projects.iq.harvard.edu/files/nocklab/files/nock_2010_self-injury_arcp_0.pdf)]
