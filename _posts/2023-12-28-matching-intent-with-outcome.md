@@ -19,7 +19,7 @@ description: While well-intuitioned, our approach to conversations about therapy
   </tr></thead>
 <tbody>
   <tr>
-    <td>“I’m glad you decided to seek help.”<br>“I’m glad you were willing to receive help.”</td>
+    <td>“I’m glad you decided to seek help.”<br/><br/>“I’m glad you were willing to receive help.”</td>
     <td>
       (a) While it's important to acknowledge someone's efforts to seek help, this statement can minimize their prior struggles; it might imply that their previous difficulties were their fault, that they haven’t been trying, and that they haven’t been seeking help or trying new things.
       <br/><br/>
@@ -115,12 +115,26 @@ description: While well-intuitioned, our approach to conversations about therapy
   </tr></thead>
 <tbody>
   <tr>
-    <td>“Committing” suicide. <br>“Successful” / “failed” suicide attempt. </td>
-    <td>The word “commit” criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. “Success” attribute positivety to suicide-deaths, and “failure” associates negativity with non-fatal suicide attempts.<br>Most current theories of suicide cernter “psychache”---intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers “harm to society” instead of the unbearable pain someone’s, that no one should be asked to endure. <br>Consider using the following language instead:<br>“Committing suicide” → making a suicide attempt<br>“Successful suicide attempt” → fatal suicide attempt<br>“Failred suicide attempt” → non-fatal suicide attempt</td>
+    <td>“Committing” suicide. <br/><br/>“Successful” / “failed” suicide attempt. </td>
+    <td>
+      The word “commit” criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. “Success” attribute positivety to suicide-deaths, and “failure” associates negativity with non-fatal suicide attempts.<br/><br/>Most current theories of suicide cernter “psychache”---intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers “harm to society” instead of the unbearable pain someone’s, that no one should be asked to endure. <br/><br/>Consider using the following language instead:
+      <br/>
+      <ul>
+        <li>“Committing suicide” → making a suicide attempt<br>“Successful suicide attempt” → fatal suicide attempt</li>
+	<li>“Failred suicide attempt” → non-fatal suicide attempt</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td>“People who are depressed / suicidal”<br>“Depressed / suicidal people” </td>
-    <td>This language equates the individual with the mental health challenge. Instead consider using “person first language:” e.g.<br>People with depression<br>People experiencing suicidal ideation</td>
+    <td>“People who are depressed / suicidal”<br/><br/>“Depressed / suicidal people”</td>
+    <td>
+      This language equates the individual with the mental health challenge. Instead consider using “person first language:” e.g.
+      <br>
+      <ul>
+        <li>People with depression</li>
+	<li>People experiencing suicidal ideation</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>“Mental health illness / disorder”</td>
@@ -128,7 +142,14 @@ description: While well-intuitioned, our approach to conversations about therapy
   </tr>
   <tr>
     <td>“Suicide is a cry for help”</td>
-    <td>The idea that suicide is simply a "cry for help" is a misconception that can oversimplify and misrepresent the complex realities of suicidal thoughts and behaviors. It can:<br>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.<br>Downplay imminent risk and need for professional help and intervention.</td>
+    <td>
+      The idea that suicide is simply a "cry for help" is a misconception that can oversimplify and misrepresent the complex realities of suicidal thoughts and behaviors. It can:
+      <br>
+      <ul>
+        <li>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.</li>
+	<li>Downplay imminent risk and need for professional help and intervention.</li>
+      </ul>
+    </td>
   </tr>
 </tbody></table>
 
