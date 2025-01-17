@@ -69,8 +69,8 @@ description: While well-intuitioned, our approach to conversations about therapy
       Your support can inadvertently cause harm. For example:
       <br>
       <ul>
-        <li>*"You seem overwhelmed—let me take this off your plate."* You may be right that taking away responsibilities may help, or, taking away responsibilities may take away structure and sources of meaning in their life, causing significant harm.</li>
-	<li>"You have a lot you're dealing with—I won't talk to you about my own life / mental health / work challenges." You may be right that talking with you about these topics is a burden, or, it may be that in talking about these, you make the person feel valued and needed.</li>
+        <li>"You seem overwhelmed—let me take this off your plate." ← You may be right that taking away responsibilities may help, or, taking away responsibilities may take away structure and sources of meaning in their life, causing significant harm.</li>
+	<li>"You have a lot you're dealing with—I won't talk to you about my own life / mental health / work challenges." ← You may be right that talking with you about these topics is a burden, or, it may be that in talking about these, you make the person feel valued and needed.</li>
       </ul>
       It's best not to make unilateral changes to your behavior to accommodate someone else—ask what will be helpful.
     </td>
