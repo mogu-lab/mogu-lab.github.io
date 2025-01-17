@@ -38,16 +38,6 @@ description: While well-intuitioned, our approach to conversations about therapy
     <td>"Why don't you do something nice for yourself?"</td>
     <td>It's important to do nice things for ourselves and practice self-care. At the same time, this may come across as trivialising significant mental health challenges that require more intense and structured interventions from healthcare professionals and supportive communities.</td>
   </tr>
-  <tr>
-    <td>"Suicide is a cry for help"</td>
-    <td>
-      The idea that suicide is simply a "cry for help" is a misconception that can oversimplify the complex realities of suicidal thoughts and behaviors. It can:
-      <ul>
-        <li>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.</li>
-	<li>Downplay imminent risk and need for professional help and intervention.</li>
-      </ul>
-    </td>
-  </tr>
 </tbody></table>
 
 
