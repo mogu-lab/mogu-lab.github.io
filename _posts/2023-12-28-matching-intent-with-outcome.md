@@ -91,7 +91,7 @@ description: While well-intuitioned, our approach to conversations about therapy
 
 
 **Reframing.** As before, it's best not to assume you know what someone's experiencing and what they need. Instead, it's bask to *ask* them if you can be supportive, and if so, how. For example you can ask:
-- "If there's a way for me to be a part of your mental health journey, please let me know---I realize that there might not be anything I can do, but if there is, I'd like to be a part of it."
+- "If there's a way for me to be a part of your mental health journey, please let me know--I realize that there might not be anything I can do, but if there is, I'd like to be a part of it."
 - "I felt like when I \_\_\_\_\_, it had a negative effect on you. If you're open to it, I'd love to learn more about your experience and what I might do differently."
 
 
@@ -107,7 +107,7 @@ description: While well-intuitioned, our approach to conversations about therapy
   <tr>
     <td>"Committing" suicide. <br/><br/>"Successful" / "failed" suicide attempt. </td>
     <td>
-      The word "commit" criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. "Success" attribute positivety to suicide-deaths, and "failure" associates negativity with non-fatal suicide attempts.<br/><br/>Most current theories of suicide cernter "psychache"---intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers "harm to society" instead of the unbearable pain someone's, that no one should be asked to endure. <br/><br/>Consider using the following language instead:
+      The word "commit" criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. "Success" attribute positivety to suicide-deaths, and "failure" associates negativity with non-fatal suicide attempts.<br/><br/>Most current theories of suicide cernter "psychache"--intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers "harm to society" instead of the unbearable pain someone's, that no one should be asked to endure. <br/><br/>Consider using the following language instead:
       <br/>
       <ul>
         <li>"Committing suicide" → making a suicide attempt<br>"Successful suicide attempt" → fatal suicide attempt</li>
