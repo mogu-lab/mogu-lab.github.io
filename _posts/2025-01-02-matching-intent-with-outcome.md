@@ -145,5 +145,11 @@ description: While well-intuitioned, our approach to conversations about therapy
 </tbody></table>
 
 
+You may find the following readings helpful in addition:
+* Words matter. Learning how to talk about suicide in a hopeful, respectful way has the power to save lives. [[link](https://www.camh.ca/-/media/files/words-matter-suicide-language-guide.pdf)]
+* Language matters: how should we talk about suicide? [[link](https://www.nationalelfservice.net/mental-health/suicide/language-matters-how-should-we-talk-about-suicide/)]
+
+
+
 <br/>
 

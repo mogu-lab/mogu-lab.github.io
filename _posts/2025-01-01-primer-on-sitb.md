@@ -19,8 +19,7 @@ description: Are you new to research on self-injurious thoughts and behaviors (S
 * Coming to terms with the terms of risk [[link](https://pubmed.ncbi.nlm.nih.gov/9107150/)]
 
 **How to respectfully talk about suicide:**
-* Words matter. Learning how to talk about suicide in a hopeful, respectful way has the power to save lives. [[link](https://www.camh.ca/-/media/files/words-matter-suicide-language-guide.pdf)]
-* Language matters: how should we talk about suicide? [[link](https://www.nationalelfservice.net/mental-health/suicide/language-matters-how-should-we-talk-about-suicide/)]
+* Matching Good Intentions with Good Outcomes--Ways to Engage in Discussions about Therapy and Psychiatric Hospitalization [[link](/tutorials/matching-intent-with-outcome)]
 
 **Is talking about suicide / suicide risk assessment iatrogenic?**
 * On the Iatrogenic Risk of Assessing Suicidality: A Meta-Analysis [[link](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sltb.12368?casa_token=fZPUuDJGDx8AAAAA:-qfbOH5pCQomF2LJ1TvSsa-5Usa0XbVXOF2EWCRlMahLug399qcRCdUy8WLgKIr9V7rgW3eFz-vuz1U)]
