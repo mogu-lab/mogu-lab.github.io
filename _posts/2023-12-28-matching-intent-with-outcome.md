@@ -110,7 +110,8 @@ description: While well-intuitioned, our approach to conversations about therapy
       The word "commit" criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. "Success" attribute positivety to suicide-deaths, and "failure" associates negativity with non-fatal suicide attempts.<br/><br/>Most current theories of suicide cernter "psychache"--intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers "harm to society" instead of the unbearable pain someone's, that no one should be asked to endure. <br/><br/>Consider using the following language instead:
       <br/>
       <ul>
-        <li>"Committing suicide" → making a suicide attempt<br>"Successful suicide attempt" → fatal suicide attempt</li>
+        <li>"Committing suicide" → making a suicide attempt</li>
+	<li>"Successful suicide attempt" → fatal suicide attempt</li>
 	<li>"Failred suicide attempt" → non-fatal suicide attempt</li>
       </ul>
     </td>
