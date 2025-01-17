@@ -13,10 +13,11 @@ description: Asking for recommendation letters can be stressful and awkward. Thi
 # Asking for a recommendation letter
 
 
-**Timing:** Your recommendation letter writers are probably incredibly busy, and will likely have to write many letters for different students in the same season. It's therefore helpful if you approach them ahead of time (months ahead if possible) to see if (a) they'd be willing to recommend you, and (b) so you can agree on a timeline (when do they need to see all of your application materials).
+**Timing:** Your recommendation letter writers are probably incredibly busy, and will likely have to write many letters for different students in the same season. It's therefore helpful if you approach them ahead of time (*months ahead* if possible) to see if (a) they'd be willing to recommend you, and (b) so you can agree on a timeline (when do they need to see all of your application materials).
 
 **Asking:** It's best to ask directly if the letter writer thinks they can write you a *good* letter of recommendation. Asking in this way does you both a favor: it's difficult to write a not-so-good recommendation letter, and such a letter may do more harm than good. Of course, it is expected that not all recommendation letters are of equal quality, and that's ok! For example, if you're applying to Ph.D. programs, your research mentor will likely write a stronger letter for you than a mentor with whom you've only taken a class. It may also be helpful for your letter writer to know who else you're planning to ask for a letter, and which aspects of your background they will highlight.
 
+**What makes a "good" letter.** A good letter often starts by explaining the recommender's relationship to the student, how long they've known them, and what are three qualities that stand out about the student (e.g. driven, hard-working, intellectually capable, etc.). The remainder of the letter is then used to demonstrate that the student indeed possesses these qualities with stories. As such, even if your recommender thinks very highly of you, they will not be able to write you a strong letter unless they have stories to convince the reader as well. To help your recommender do the best job they can, be sure to put lots of effort and thought into the "brag sheet" (described below)---remind your recommender of things you did that might stand out, that they can highlight in their letter. Even listing conversations you had with your recommender at office hours, in which you ask questions beyond the scope of the course, can go a long way.
 
 
 # Helping your recommender by staying organized
@@ -68,10 +69,10 @@ You can use the following as a template for your spreadsheet:
 # What to include in your “brag sheet”
 
 **Summary:** Summarize the work you've done with the letter writer. This can include, for example:
-* Classes (when did you take the classes? what was your grade? what was your final project on?)
+* Classes (when did you take the classes? what was your grade? what was your final project on? did you go to office hours and ask questions beyond the scope of the course? did you struggle with the course material but then overcame it?)
 * Research (when did you get involved in research? what was your project on?)
 
-Although this information is already included in your CV, having descriptions in prose is extremely helpful for your letter writer!
+Although this information is already included in your CV, having descriptions in prose is extremely helpful for your letter writer! It will help them paint a 3-dimensional picture of you with stories.
 
 **Details:** For each of the items in the summary, list anything that might be noteworthy. This list should include both accomplishments (e.g. got a good grade in a class, submitted a research paper to a workshop, etc.), as well as experiences highlighting important character traits (e.g. how you creatively approached a problem, how you overcame a struggle, etc.). Here are examples of things to include:
 * A final project you've gone above and beyond on
