@@ -1,0 +1,238 @@
+---
+title: Matching Good Intentions with Good Outcomes---Ways to Engage in Discussions about Therapy and Psychiatric Hospitalization
+tags: [Mental Health]
+style: fill
+color: info
+description: While well-intuitioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other’s experiences and promote harmful values about mental health. Here, we present a brief guide to navigating these conversations.
+---
+
+
+**About.** While well-intuitioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other’s experiences and promote harmful values about mental health. Below we offer a few common, well-intentioned sentiments, language and actions to consider. For each, we then offer a alternative ways to engage.
+
+
+## Well-Intentioned Sentiments
+
++-----------------------+-----------------------------------------------+
+| **Sentiment**         | **Implicit Implication**                      |
++=======================+===============================================+
+| "I'm glad you decided | \(a\) While it\'s important to acknowledge    |
+| to seek help."        | someone\'s efforts to seek help, this         |
+|                       | statement can minimize their prior struggles; |
+| "I'm glad you were    | it might imply that their previous            |
+| willing to receive    | difficulties were their fault, that they      |
+| help."                | haven't been trying, and that they haven't    |
+|                       | been seeking help or trying new things.       |
+|                       |                                               |
+|                       | \(b\) While therapy provides structured help, |
+|                       | the statement inappropriately centers the     |
+|                       | help, making it seem like the person is       |
+|                       | passive in the process. Therapy is not like   |
+|                       | breaking an arm (you get your cast on and     |
+|                       | your body does the rest); it requires         |
+|                       | constant effort and grit from the individual  |
+|                       | to overcome significant challenges.           |
++-----------------------+-----------------------------------------------+
+| "You're so strong /   | \(a\) Though intended as a compliment, it     |
+| brave."               | implies that seeking therapy is an            |
+|                       | extraordinary act rather than a normal and    |
+|                       | healthy step. This can reinforce the stigma   |
+|                       | that therapy is unusual or only for extreme   |
+|                       | cases.                                        |
+|                       |                                               |
+|                       | \(b\) This statement can also come across as  |
+|                       | having pity, implying that the person is      |
+|                       | weak, and that's why they need therapy or     |
+|                       | needed hospitalization. Mental health         |
+|                       | challenges and disabilities are experiences   |
+|                       | that can affect *anyone*, regardless of their |
+|                       | background. While certain individuals, such   |
+|                       | as cisgender, white, able-bodied men, may not |
+|                       | face marginalization related to race, gender, |
+|                       | or sexual orientation, they can still         |
+|                       | encounter circumstances that lead to          |
+|                       | disability and/or significant mental health   |
+|                       | challenges. It\'s crucial to understand that  |
+|                       | we all exist on a spectrum of mental health,  |
+|                       | rather than viewing individuals as inherently |
+|                       | \"strong\" or \"weak.\" This statement        |
+|                       | endorses the concept of "strong" vs. "weak"   |
+|                       | instead of promoting empathy, recognizing the |
+|                       | shared potential for facing such challenges.  |
++-----------------------+-----------------------------------------------+
+| "Why don't you do     | It's important to do nice things for          |
+| something nice for    | ourselves and practice self-care. At the same |
+| yourself?"            | time, this may come across as trivialising    |
+|                       | significant mental health challenges that     |
+|                       | require more intense and structured           |
+|                       | interventions from healthcare professionals   |
+|                       | and supportive communities.                   |
++-----------------------+-----------------------------------------------+
+
+**Reframing.** After reading this, you might feel like you can't say
+anything. Instead, we offer one key way of engaging: instead of making
+value-statements about the individual or the experience, consider
+*asking them value-neutral questions about their experience to express
+your interest and to learn more*. For example, you can ask questions
+like:
+
+-   What's it been like for you?
+
+-   What have you found challenging?
+
+-   How has this experience affected you?
+
+-   How did people close to you react when you told them? And how did
+    that make you feel?
+
+
+## Well-Intentioned Actions
+
++-----------------------+-----------------------------------------------+
+| **Actions**           | **Implicit Implication**                      |
++=======================+===============================================+
+| Offering solutions    | Oftentimes, your well-intuitioned offer of    |
+|                       | support can overlook the complexity of the    |
+|                       | individual\'s experiences, inadvertently      |
+|                       | minimizing them.                              |
++-----------------------+-----------------------------------------------+
+| Providing support     | Your support can inadvertently cause harm.    |
+| without *consent*, or | For example:                                  |
+| without problem       |                                               |
+| solving *together*.   | -   "You seem overwhelmed---let me take this  |
+|                       |     off your plate." You may be right that    |
+|                       |     taking away responsibilities may help,    |
+|                       |     or, taking away responsibilities may take |
+|                       |     away structure and sources of meaning in  |
+|                       |     their life, causing significant harm.     |
+|                       |                                               |
+|                       | -   "You have a lot you're dealing with---I   |
+|                       |     won't talk to you about my own life /     |
+|                       |     mental health / work challenges." You may |
+|                       |     be right that talking with you about      |
+|                       |     these topics is a burden, or, it may be   |
+|                       |     that in talking about these, you make the |
+|                       |     person feel valued and needed.            |
+|                       |                                               |
+|                       | It's best not to make unilateral changes to   |
+|                       | your behavior to accommodate someone          |
+|                       | else---ask what will be helpful.              |
++-----------------------+-----------------------------------------------+
+| Tip-toeing around the | Tip-toeing can reinforce stigma, make the     |
+| subject of mental     | person feel perceived as weak, and contribute |
+| health or things you  | to misunderstandings that can be more         |
+| think might be        | harmful. If you're not sure what's ok to talk |
+| "triggers."           | about, it's best to ask the person directly.  |
+|                       |                                               |
+|                       | Additionally, being open about mental health  |
+|                       | can actually serve as a protective factor.    |
+|                       | For example, an open and constructive         |
+|                       | conversation about suicide may offer relief   |
+|                       | and mitigate the isolation that offen comes   |
+|                       | with suicidal ideation.                       |
++-----------------------+-----------------------------------------------+
+| Thinking "it's not ok | It\'s likely you\'re not the cause of someone |
+| to make mistakes."    | else\'s mental health challenges, but it\'s   |
+|                       | also possible that certain actions, words, or |
+|                       | environments you\'ve been a part of have      |
+|                       | contributed in some way to those challenges.  |
+|                       | *This is normal, and it's important you don't |
+|                       | blame yourself*. Instead, consider maintain   |
+|                       | open communication, soliciting feedback, and  |
+|                       | helping to mitigate any unintended negative   |
+|                       | effects of your actions to contribute to a    |
+|                       | more supportive community.                    |
++-----------------------+-----------------------------------------------+
+
+**Reframing.** As before, it's best not to assume you know what
+someone's experiencing and what they need. Instead, it's bask to *ask*
+them if you can be supportive, and if so, how.
+
+For example you can ask:
+
+-   "If there's a way for me to be a part of your mental health journey,
+    please let me know---I realize that there might not be anything I
+    can do, but if there is, I'd like to be a part of it."
+
+-   "I felt like when I \_\_\_\_\_, it had a negative effect on you. If
+    you're open to it, I'd love to learn more about your experience and
+    what I might do differently."
+
+
+
+## **Commonly-Used Language**
+
++-----------------------+-----------------------------------------------+
+| **Language**          | **Implicit Implication**                      |
++=======================+===============================================+
+| "Committing" suicide. | The word "commit" criminalizes suicide: it    |
+|                       | implicitly compares suicide to a              |
+| "Successful" /        | crime---something done selfishly, recklessly, |
+| "failed" suicide      | without concern for others. "Success"         |
+| attempt.              | attribute positivety to suicide-deaths, and   |
+|                       | "failure" associates negativity with          |
+|                       | non-fatal suicide attempts.                   |
+|                       |                                               |
+|                       | Most current theories of suicide cernter      |
+|                       | "psychache"\-\--intense psychological pain,   |
+|                       | so strong that it elicits a desire to escape  |
+|                       | it, like being trapped in hell. Oftentimes,   |
+|                       | for their life as it is, death seems like the |
+|                       | only source of relief. Using language that    |
+|                       | criminalizes suicide centers "harm to         |
+|                       | society" instead of the unbearable pain       |
+|                       | someone's, that no one should be asked to     |
+|                       | endure.                                       |
+|                       |                                               |
+|                       | Consider using the following language         |
+|                       | instead:                                      |
+|                       |                                               |
+|                       | -   "Committing suicide" → making a suicide   |
+|                       |     attempt                                   |
+|                       |                                               |
+|                       | -   "Successful suicide attempt" → fatal      |
+|                       |     suicide attempt                           |
+|                       |                                               |
+|                       | -   "Failred suicide attempt" → non-fatal     |
+|                       |     suicide attempt                           |
++-----------------------+-----------------------------------------------+
+| "People who are       | This language equates the individual with the |
+| depressed / suicidal" | mental health challenge. Instead consider     |
+|                       | using "person first language:" e.g.           |
+| "Depressed / suicidal |                                               |
+| people"               | -   People *with* depression                  |
+|                       |                                               |
+|                       | -   People *experiencing* suicidal ideation   |
++-----------------------+-----------------------------------------------+
+| "Mental health        | The words \"illness\" and \"disorder\"        |
+| illness / disorder"   | suggest something is inherently wrong with a  |
+|                       | person. Instead, consider using the terms     |
+|                       | "mental health journey" or "mental health     |
+|                       | challenge," implying that it is a *normal*    |
+|                       | and *common* human experience, and that it's  |
+|                       | something that can be *overcome* (i.e. not an |
+|                       | inherent flaw in the person). Moreover, using |
+|                       | this language implies that there's *value*    |
+|                       | that comes from the experience, as opposed to |
+|                       | treating it as a misfortune that shouldn't be |
+|                       | talked about.                                 |
++-----------------------+-----------------------------------------------+
+| "Suicide is a cry for | The idea that suicide is simply a \"cry for   |
+| help"                 | help\" is a misconception that can            |
+|                       | oversimplify and misrepresent the complex     |
+|                       | realities of suicidal thoughts and behaviors. |
+|                       | It can:                                       |
+|                       |                                               |
+|                       | -   Contribute to stigma by implying          |
+|                       |     attention-seeking behavior, which can     |
+|                       |     discourage individuals from speaking      |
+|                       |     openly about their thoughts and seeking   |
+|                       |     necessary support.                        |
+|                       |                                               |
+|                       | -   Downplay imminent risk and need for       |
+|                       |     professional help and intervention.       |
++-----------------------+-----------------------------------------------+
+
+
+
+<br/>
+
