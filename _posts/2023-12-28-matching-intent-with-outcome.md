@@ -40,7 +40,13 @@ description: While well-intuitioned, our approach to conversations about therapy
   </tr>
   <tr>
     <td>“Suicide is a cry for help”</td>
-    <td>The idea that suicide is simply a "cry for help" is a misconception that can oversimplify and misrepresent the complex realities of suicidal thoughts and behaviors. It can:<br>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.<br>Downplay imminent risk and need for professional help and intervention.</td>
+    <td>
+      The idea that suicide is simply a "cry for help" is a misconception that can oversimplify and misrepresent the complex realities of suicidal thoughts and behaviors. It can:
+      <ul>
+        <li>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.</li>
+	<li>Downplay imminent risk and need for professional help and intervention.</li>
+      </ul>
+    </td>
   </tr>
 </tbody></table>
 
@@ -57,6 +63,41 @@ description: While well-intuitioned, our approach to conversations about therapy
 
 ## Well-Intentioned Actions
 
+<table><thead>
+  <tr>
+    <th>Actions</th>
+    <th>Implicit Implication</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Offering solutions</td>
+    <td>Oftentimes, your well-intuitioned offer of support can overlook the complexity of the individual's experiences, inadvertently minimizing them.</td>
+  </tr>
+  <tr>
+    <td>Providing support without consent, or without problem solving together.</td>
+    <td>
+      Your support can inadvertently cause harm. For example:
+      <br>
+      <ul>
+        <li>“You seem overwhelmed—let me take this off your plate.” You may be right that taking away responsibilities may help, or, taking away responsibilities may take away structure and sources of meaning in their life, causing significant harm.</li>
+	<li>“You have a lot you’re dealing with—I won’t talk to you about my own life / mental health / work challenges.” You may be right that talking with you about these topics is a burden, or, it may be that in talking about these, you make the person feel valued and needed.</li>
+      </ul>
+      It’s best not to make unilateral changes to your behavior to accommodate someone else—ask what will be helpful.
+    </td>
+  </tr>
+  <tr>
+    <td>Tip-toeing around the subject of mental health or things you think might be “triggers.”</td>
+    <td>
+      Tip-toeing can reinforce stigma, make the person feel perceived as weak, and contribute to misunderstandings that can be more harmful. If you’re not sure what’s ok to talk about, it’s best to ask the person directly.
+      <br/><br/>
+      Additionally, being open about mental health can actually serve as a protective factor. For example, an open and constructive conversation about suicide may offer relief and mitigate the isolation that offen comes with suicidal ideation.
+    </td>
+  </tr>
+  <tr>
+    <td>Thinking “it’s not ok to make mistakes.”</td>
+    <td>It's likely you're not the cause of someone else's mental health challenges, but it's also possible that certain actions, words, or environments you've been a part of have contributed in some way to those challenges. This is normal, and it’s important you don’t blame yourself. Instead, consider maintain open communication, soliciting feedback, and helping to mitigate any unintended negative effects of your actions to contribute to a more supportive community.</td>
+  </tr>
+</tbody></table>
 
 
 **Reframing.** As before, it's best not to assume you know what someone's experiencing and what they need. Instead, it's bask to *ask* them if you can be supportive, and if so, how. For example you can ask:
@@ -66,6 +107,30 @@ description: While well-intuitioned, our approach to conversations about therapy
 
 
 ## Commonly-Used Language
+
+<table><thead>
+  <tr>
+    <th>Language</th>
+    <th>Implicit Implication</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>“Committing” suicide. <br>“Successful” / “failed” suicide attempt. </td>
+    <td>The word “commit” criminalizes suicide: it implicitly compares suicide to a crime—something done selfishly, recklessly, without concern for others. “Success” attribute positivety to suicide-deaths, and “failure” associates negativity with non-fatal suicide attempts.<br>Most current theories of suicide cernter “psychache”---intense psychological pain, so strong that it elicits a desire to escape it, like being trapped in hell. Oftentimes, for their life as it is, death seems like the only source of relief. Using language that criminalizes suicide centers “harm to society” instead of the unbearable pain someone’s, that no one should be asked to endure. <br>Consider using the following language instead:<br>“Committing suicide” → making a suicide attempt<br>“Successful suicide attempt” → fatal suicide attempt<br>“Failred suicide attempt” → non-fatal suicide attempt</td>
+  </tr>
+  <tr>
+    <td>“People who are depressed / suicidal”<br>“Depressed / suicidal people” </td>
+    <td>This language equates the individual with the mental health challenge. Instead consider using “person first language:” e.g.<br>People with depression<br>People experiencing suicidal ideation</td>
+  </tr>
+  <tr>
+    <td>“Mental health illness / disorder”</td>
+    <td>The words "illness" and "disorder" suggest something is inherently wrong with a person. Instead, consider using the terms “mental health journey” or “mental health challenge,” implying that it is a normal and common human experience, and that it’s something that can be overcome (i.e. not an inherent flaw in the person). Moreover, using this language implies that there’s value that comes from the experience, as opposed to treating it as a misfortune that shouldn’t be talked about.</td>
+  </tr>
+  <tr>
+    <td>“Suicide is a cry for help”</td>
+    <td>The idea that suicide is simply a "cry for help" is a misconception that can oversimplify and misrepresent the complex realities of suicidal thoughts and behaviors. It can:<br>Contribute to stigma by implying attention-seeking behavior, which can discourage individuals from speaking openly about their thoughts and seeking necessary support.<br>Downplay imminent risk and need for professional help and intervention.</td>
+  </tr>
+</tbody></table>
 
 
 <br/>
