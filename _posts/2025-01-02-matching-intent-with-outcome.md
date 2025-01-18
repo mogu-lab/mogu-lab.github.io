@@ -3,11 +3,11 @@ title: Matching Good Intentions with Good Outcomes--Ways to Engage in Discussion
 tags: [Mental Health]
 style: fill
 color: info
-description: While well-intuitioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other's experiences and promote harmful values about mental health. Here, we present a brief guide to navigating these conversations.
+description: While well-intentioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other's experiences and promote harmful values about mental health. Here, we present a brief guide to navigating these conversations.
 ---
 
 
-**About.** While well-intuitioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other's experiences and promote harmful values about mental health. Below we offer a few common, well-intentioned sentiments, language and actions to consider. For each, we then offer a alternative ways to engage.
+**About.** While well-intentioned, our approach to conversations about therapy and psychiatric hospitalization can also unintentionally undermine other's experiences and promote harmful values about mental health. Below we offer a few common, well-intentioned sentiments, language and actions to consider. For each, we then offer a alternative ways to engage.
 
 
 ## Well-Intentioned Sentiments
@@ -61,7 +61,7 @@ description: While well-intuitioned, our approach to conversations about therapy
 <tbody>
   <tr>
     <td>Offering solutions</td>
-    <td>Oftentimes, your well-intuitioned offer of support can overlook the complexity of the individual's experiences, inadvertently minimizing them.</td>
+    <td>Oftentimes, your well-intentioned offer of support can overlook the complexity of the individual's experiences, inadvertently minimizing them.</td>
   </tr>
   <tr>
     <td>Providing support without consent, or without problem solving together.</td>
@@ -85,7 +85,7 @@ description: While well-intuitioned, our approach to conversations about therapy
   </tr>
   <tr>
     <td>Thinking "it's not ok to make mistakes."</td>
-    <td>It's likely you're not the cause of someone else's mental health challenges, but it's also possible that certain actions, words, or environments you've been a part of have contributed in some way to those challenges. This is normal, and it's important you don't blame yourself. Instead, consider maintain open communication, soliciting feedback, and helping to mitigate any unintended negative effects of your actions to contribute to a more supportive community.</td>
+    <td>It's likely you're not the cause of someone else's mental health challenges, but it's also possible that certain actions, words, or environments you've been a part of have contributed in some way to those challenges. This is normal, and it's important you don't blame yourself. Instead, consider maintaining open communication, soliciting feedback, and helping to mitigate any unintended negative effects of your actions to contribute to a more supportive community.</td>
   </tr>
 </tbody></table>
 
