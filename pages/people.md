@@ -35,6 +35,9 @@ weight: 5
 	</h5>
 	<div class="card-footer bg-transparent">
           <h6 class="text-muted">{{ p.title }}</h6>
+	  {% if p.coadvisor %}
+          <h6 class="text-muted">Co-advisor: {{ p.coadvisor }}</h6>
+	  {% endif %}
           <div class="text-muted">{{ p.affiliation }}</div>
         </div>
 	</center>	
