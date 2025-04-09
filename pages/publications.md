@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications
 weight: 3
-years: [2024, 2023, 2022, 2020, 2019]
+years: [2025, 2024, 2023, 2022, 2020, 2019]
 ---
 
 # **Publications**
