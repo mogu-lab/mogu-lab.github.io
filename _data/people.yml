@@ -37,6 +37,13 @@
       site: https://www.linkedin.com/in/emmie-regan
       image: /assets/img/people/emmie-regan.png
       coadvisor: Prof. Gadiraju
+    - name: Ivy Wang '28
+      pronouns: she/her
+      title: Data Science Major, Economics Minor
+      affiliation: Wellesley College
+      site: 
+      image: /assets/img/people/placeholder04.png
+      coadvisor: Prof. Gadiraju
 
 
 - section: "Collaborators"
@@ -65,12 +72,6 @@
       affiliation: Harvard University    
       site: https://finale.seas.harvard.edu/
       image: /assets/img/people/finale.png
-    - name: Jasmin Brooks Stephens
-      pronouns: she/her        
-      title: Assistant Professor of Psychology (Incoming)
-      affiliation: UC Berkeley
-      site: https://psychology.berkeley.edu/people/jasmin-brooks-stephens
-      image: /assets/img/people/jasmin-brooks-stephens.png      
     - name: Weiwei Pan
       pronouns: they/them        
       title: Assistant Director for Graduate Studies in Data Science
