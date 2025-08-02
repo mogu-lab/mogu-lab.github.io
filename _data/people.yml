@@ -44,7 +44,13 @@
       site: http://www.linkedin.com/in/ivywang123
       image: /assets/img/people/placeholder04.png
       coadvisor: Prof. Gadiraju
-
+    - name: Achieng Mellisa '28
+      pronouns: she/her
+      title: CS Major
+      affiliation: Wellesley College
+      site: 
+      image: /assets/img/people/placeholder01.png
+      coadvisor: Prof. Gadiraju
 
 - section: "Collaborators"
   members:
