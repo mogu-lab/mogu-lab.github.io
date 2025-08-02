@@ -49,6 +49,7 @@ description: While well-intentioned, our approach to conversations about therapy
 - How has this experience affected you?
 - How did people close to you react when you told them? And how did that make you feel?
 
+By asking these questions, you allow the individual not to just center their pain, but also to center their *growth, strength, and learning* from the experience.
 
 
 ## Well-Intentioned Actions
@@ -112,7 +113,7 @@ description: While well-intentioned, our approach to conversations about therapy
       <ul>
         <li>"Committing suicide" → making a suicide attempt</li>
 	<li>"Successful suicide attempt" → fatal suicide attempt</li>
-	<li>"Failred suicide attempt" → non-fatal suicide attempt</li>
+	<li>"Failed suicide attempt" → non-fatal suicide attempt</li>
       </ul>
     </td>
   </tr>
