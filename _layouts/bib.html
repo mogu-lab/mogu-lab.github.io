@@ -56,7 +56,11 @@
               {%- if author_is_self %}
                 <em><strong>{{ full_name }}</strong></em>
               {%- else -%}
-                {{ full_name }}
+                {% if coauthor_url -%}
+                  <a target="_blank" href="{{coauthor_url}}" {{ mentee_class }}>{{ full_name }}</a>
+                {%- else -%}
+                  <span {{ mentee_class }}>{{ full_name }}</span>
+                {%- endif -%}
               {%- endif -%}
             {%- else -%}
               {%- unless forloop.last -%}
