@@ -49,8 +49,15 @@
       title: CS Major
       affiliation: Wellesley College
       site: 
-      image: /assets/img/people/placeholder01.png
+      image: /assets/img/people/placeholder01.png      
       coadvisor: Prof. Gadiraju
+    - name: Kailyn Lau '28
+      pronouns: she/they
+      title: CS Major, Math Minor
+      affiliation: Wellesley College
+      site: 
+      image: /assets/img/people/kailyn-lau.png
+      
 
 - section: "Collaborators"
   members:
