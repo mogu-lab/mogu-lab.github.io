@@ -9,11 +9,14 @@ weight: 6
 
 ## Undergraduate Students at Wellesley
 
+
 <div class="alert alert-warning" role="alert" markdown="1">
-**Update:** We'll be looking to recruit new undergraduate collaborators to join the lab starting in Spring 2026. If you're interested in working with us, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link) and we will reach out to you sometime this fall when we'll start recruiting. Note that for this opportunity, we expect you to commit to Spring *and* Summer 2026. *Unfortunately, we aren't taking any non-Wellesley students at the moment.*
+ <!--
+**Update:** We'll be looking to recruit new undergraduate collaborators to join the lab starting in Spring 2026. If you're interested in working with us, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link) and we will reach out to you sometime this fall when we'll start recruiting. Note that for this opportunity, we expect you to commit to Spring *and* Summer 2026.-->
+ At the moment, we're not recruiting any more students. If you're interested in working with us and would like to know when there will be openings, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link). Please do not use GenerativeAI to help you answer the questions on the form; we'd like to hear your own, unique voice. *Finally, we unfortunately aren't taking any non-Wellesley students at the moment.*
 </div>
 
-If you're interested in working with us, email [Yaniv](https://yanivyacoby.github.io/){:target="_blank"} to ask about current research opportunities. Please include the answers to the questions below. This will help us find the right project for you. Please note that at the moment, *we aren't taking any non-Wellesley students*.
+If you're interested in working with us, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link), which includes questions the questions below. This will help us find the right project for you. Please note that at the moment, *we aren't taking any non-Wellesley students*.
 
 > **Questions:**
 1. **Topic:** Having browsed this website, what topics are you most interested in?
