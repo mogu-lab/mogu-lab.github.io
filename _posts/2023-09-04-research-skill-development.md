@@ -110,7 +110,10 @@ Before you begin your evaluation, we would like to **dispel a few myths** many s
 * Finding ways to meaningfully engage with all of the above questions in order to build a better, inclusive academic culture that can support rigorous, inclusive and useful science
 
 
-**Acknowledgements:** This guide is adapted from [Yaniv's offering of CS290 at Harvard](https://yanivyacoby.github.io/harvard-cs290-teaching-materials/posts/once-per-semester-spring/) and an document created by [Weiwei Pan](https://onefishy.github.io/). 
+<br/>
+
+
+**Acknowledgements:** This guide is adapted from [Yaniv's offering of CS290 at Harvard](https://yanivyacoby.github.io/harvard-cs290-teaching-materials/posts/once-per-semester-spring/) and a document created by [Weiwei Pan](https://onefishy.github.io/). 
 
 
 <br/>
