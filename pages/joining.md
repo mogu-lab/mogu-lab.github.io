@@ -28,7 +28,7 @@ If you're interested in working with us, please fill out [this form](https://doc
 <!--
 ## Prospective Ph.D. Students and Postdocs
 
-We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. Both the Ph.D. students and the postdocs will be housed at DTAK. 
+We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. 
 
 **Prospective Ph.D. Students:** We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's SEAS. 
 
@@ -44,7 +44,6 @@ We are looking to recruit Ph.D. students and postdocs for positions that will be
 
 There are a number of ways you can get involved in research at MOGU Lab:
 * You can do an independent study with us (e.g. CS 250, CS 350)
-* You can write a thesis with us
 * You can work with us during the summer (and get paid)
   * We have funding to pay students a summer stipend.
   * There are also several wonderful opportunities to get a summer stipend through Wellesley / the Science Center. As an example, these include:
