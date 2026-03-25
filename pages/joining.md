@@ -13,7 +13,7 @@ weight: 6
 <div class="alert alert-warning" role="alert" markdown="1">
  <!--
 **Update:** We'll be looking to recruit new undergraduate collaborators to join the lab starting in Spring 2026. If you're interested in working with us, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link) and we will reach out to you sometime this fall when we'll start recruiting. Note that for this opportunity, we expect you to commit to Spring *and* Summer 2026.-->
- At the moment, we're not recruiting any more students. If you're interested in working with us and would like to know when there will be openings, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link). Please do not use GenerativeAI to help you answer the questions on the form; we'd like to hear your own, unique voice. *Finally, we unfortunately aren't taking any non-Wellesley students at the moment.*
+ At the moment, we're not recruiting any more students. If you're interested in working with us and would like to know when there will be openings, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link). Please do not use GenerativeAI to help you answer the questions on the form; we'd like to hear your own, unique voice. *Finally, we unfortunately aren't taking any non-Wellesley undergraduate students at the moment.*
 </div>
 
 If you're interested in working with us, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdH317j6KSwbPZzXc0MsexB3KgOflOP9q3fGdM1Yzwc3jgmJw/viewform?usp=sf_link), which includes questions the questions below. This will help us find the right project for you. Please note that at the moment, *we aren't taking any non-Wellesley students*.
@@ -25,9 +25,14 @@ If you're interested in working with us, please fill out [this form](https://doc
 4. **Commitment:** What's your intended time commitment (e.g. how many hours per week for how many weeks, how many classes are you taking, do you have other research commitments)?
 5. **Catch-all:** Anything else you want to share or that will be helpful for us to know?
 
-<!--
-## Prospective Ph.D. Students and Postdocs
 
+<br/>
+
+## Co-Advising Ph.D. Students and Postdocs
+
+If you're a current **Ph.D. student** or **postdoc** working on probabilistic ML, clinical psychology, and/or the intersection of the two, we'd love to work together. I'm happy to serve as a co-advisor, support your research, and get you involved in our research. Please reach out if you're interested!
+
+<!--
 We are looking to recruit Ph.D. students and postdocs for positions that will be **co-advised** by the PIs of three labs: [MOGU Lab](https://mogu-lab.github.io/), the [Data to Actionable Knowledge (DTAK) Lab](https://dtak.github.io/) at Harvard's School of Engineering and Applied Sciences (SEAS), and the [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard's Department of Psychology. 
 
 **Prospective Ph.D. Students:** We are looking to admit 1-2 Ph.D. students to start in the Fall of 2025. For consideration, please apply to the Computer Science or Applied Math Ph.D. program at Harvard's SEAS. 
