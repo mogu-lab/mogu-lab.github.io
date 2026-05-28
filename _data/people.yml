@@ -87,34 +87,18 @@
 
 - section: "Alumni"
   members:
-    - name: Genesis Hang '26
+    - name: Genesis Hang (Wellesley '26)
       pronouns: she/her
-      title: CS Major, Biochem Minor
-      affiliation: Wellesley College
       site: http://www.linkedin.com/in/genesishang1
-      image: /assets/img/people/genesis-hang.png
-    - name: Annie Chen '26
+    - name: Annie Chen (Wellesley '26)
       pronouns: she/her
-      title: CS and Math Major
-      affiliation: Wellesley College
       site: https://www.linkedin.com/in/annie-chen-wc134/
-      image: /assets/img/people/annie-chen.png
-    - name: Malinda Lu '26
+    - name: Malinda Lu (Wellesley '26)
       pronouns: she/her
-      title: CS Major, Math Minor
-      affiliation: Wellesley College
       site: https://www.linkedin.com/in/malindalu/
-      image: /assets/img/people/malinda-lu.png
-    - name: Jane Liu '26
+    - name: Jane Liu (Wellesley '26)
       pronouns: she/her
-      title: CS Major
-      affiliation: Wellesley College
-      site: 
-      image: /assets/img/people/placeholder05.png
-    - name: Emmie Regan '26
+      site: https://www.linkedin.com/in/yue-jane-liu/
+    - name: Emmie Regan (Wellesley '26)
       pronouns: they/them
-      title: Media Arts &amp; Sciences Major, Psychology Minor
-      affiliation: Wellesley College
       site: https://www.linkedin.com/in/emmie-regan
-      image: /assets/img/people/emmie-regan.png
-      coadvisor: Prof. Gadiraju
