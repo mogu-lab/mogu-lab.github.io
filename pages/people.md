@@ -35,15 +35,18 @@ weight: 5
 	  <h6 class="text-muted">({{ p.pronouns }})</h6>
 	  {% endif %}	  
 	</h5>
+	{% if p.title or p.affiliation or p.coadvisor %}
 	<div class="card-footer bg-transparent">
-          <h6 class="text-muted">{{ p.title }}</h6>
-          <div class="text-muted">{{ p.affiliation }}</div>
+      <h6 class="text-muted">{{ p.title }}</h6>
+      <div class="text-muted">{{ p.affiliation }}</div>
 	  {% if p.coadvisor %}
-          <div class="text-muted"><i>*Co-advised by {{ p.coadvisor }}</i></div>
+      <div class="text-muted"><i>*Co-advised by {{ p.coadvisor }}</i></div>
 	  {% endif %}	  
-        </div>
+    </div>
+    {% endif %}
+	
 	</center>	
-      </div>
+    </div>
     </div>
     {% endfor %}
   </div>
