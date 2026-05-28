@@ -15,10 +15,12 @@ weight: 5
     {% for p in s.members %}
     <div class="card border-0">
 
+      {% if p.image %}
       <picture>
-  	<source srcset="{{ p.image | replace: '.png', '.webp' }}" type="image/webp">
+  	    <source srcset="{{ p.image | replace: '.png', '.webp' }}" type="image/webp">
         <img class="card-img-top" src="{{ p.image }}" alt="Portrait of {{ p.name }}">
       </picture>
+	  {% endif %}
 
       <div class="card-body" style="padding: 0px;">
         <center>
