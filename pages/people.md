@@ -52,6 +52,40 @@ weight: 5
   </div>
 {% endfor %}
 
+
+{% for s in site.data.alumni %}
+  <h1><strong>{{ s.section }}</strong></h1>
+
+  <div class="card-columns">
+    {% for p in s.members %}
+    <div class="card border-0">
+
+      <div class="card-body" style="padding: 0px;">
+        <center>
+        <h5 class="card-title">
+	  {% if p.site %}	  
+	  <a href='{{ p.site }}' target='_blank'>{{ p.name }}</a>
+	  {% else %}
+	  <a href='#'>{{ p.name }}</a>
+	  {% endif %}
+	  {% if p.pronouns %}
+	  <br/>	  
+	  <h6 class="text-muted">({{ p.pronouns }})</h6>
+	  {% endif %}	  
+	</h5>
+	{% if p.year %}
+	<div class="card-footer bg-transparent">
+      <div class="text-muted">{{ p.year }}</div> 
+    </div>
+    {% endif %}
+	
+	</center>	
+    </div>
+    </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+
 </div>
 
 <br/>
