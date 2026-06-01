@@ -37,7 +37,13 @@
       title: Math and CS Double Major
       affiliation: Wellesley College
       site: https://www.linkedin.com/in/gianajones2027/
-      image: /assets/img/people/giana-jones.png      
+      image: /assets/img/people/giana-jones.png 
+    - name: Jiayu (Ally) Zhang ’28
+      pronouns: she/her
+      title: Math Major
+      affiliation: Wellesley College
+      site: https://www.linkedin.com/in/jiayuallyzhang/
+      image: /assets/img/people/jiayu-zhang.png        
 
 - section: "Current Collaborators"
   members:
