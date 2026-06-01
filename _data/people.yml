@@ -22,7 +22,7 @@
       coadvisor: Prof. Gadiraju
     - name: Kailyn Lau '28
       pronouns: she/they
-      title: CS Major, Math Minor
+      title: CS and DS Double Major
       affiliation: Wellesley College
       site: https://www.linkedin.com/in/kailyn-lau-8b60a4333/
       image: /assets/img/people/kailyn-lau.png
@@ -32,7 +32,12 @@
       affiliation: Wellesley College
       site: https://www.linkedin.com/in/jiayu-chen-224421239/
       image: /assets/img/people/jasmine-chen.png
-      
+    - name: Giana Jones ’27
+      pronouns: she/her
+      title: Math and CS Double Major
+      affiliation: Wellesley College
+      site: https://www.linkedin.com/in/gianajones2027/
+      image: /assets/img/people/giana-jones.png      
 
 - section: "Current Collaborators"
   members:
