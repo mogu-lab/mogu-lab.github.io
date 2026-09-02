@@ -1,3 +1,4 @@
+
 - section: "Members"
   members:
     - name: Yaniv Yacoby
@@ -6,6 +7,12 @@
       affiliation: Wellesley College
       site: https://yanivyacoby.github.io/
       image: /assets/img/people/yaniv.png
+    - name: Han Nguyen '27
+      pronouns: she/her
+      title: Computer Science Major
+      affiliation: Wellesley College
+      site: https://www.linkedin.com/in/han-nnguyen/
+      image: /assets/img/people/han-nguyen.png
     - name: Ivy Wang '28
       pronouns: she/her
       title: Data Science Major, Economics Minor
