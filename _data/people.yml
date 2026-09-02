@@ -13,13 +13,12 @@
       affiliation: Wellesley College
       site: https://www.linkedin.com/in/han-nnguyen/
       image: /assets/img/people/han-nguyen.png
-    - name: Ivy Wang '28
+    - name: Anisa Rodriguez ’27
       pronouns: she/her
-      title: Data Science Major, Economics Minor
+      title: Data Science Major
       affiliation: Wellesley College
-      site: http://www.linkedin.com/in/ivywang123
-      image: /assets/img/people/placeholder04.png
-      coadvisor: Prof. Gadiraju
+      site: https://www.linkedin.com/in/anisa-rodriguez-2b0a89413/
+      image: /assets/img/people/anisa-rodriguez.png      
     - name: Achieng Mellisa '28
       pronouns: she/her
       title: CS Major
@@ -50,14 +49,15 @@
       title: Math Major
       affiliation: Wellesley College
       site: https://www.linkedin.com/in/jiayuallyzhang/
-      image: /assets/img/people/jiayu-zhang.png        
-    - name: Anisa Rodriguez ’27
+      image: /assets/img/people/jiayu-zhang.png
+    - name: Ivy Wang '28
       pronouns: she/her
-      title: Data Science Major
+      title: Data Science Major, Economics Minor
       affiliation: Wellesley College
-      site: https://www.linkedin.com/in/anisa-rodriguez-2b0a89413/
-      image: /assets/img/people/anisa-rodriguez.png
-
+      site: http://www.linkedin.com/in/ivywang123
+      image: /assets/img/people/placeholder04.png
+      coadvisor: Prof. Gadiraju
+      
 - section: "Current Collaborators"
   members:
     - name: Matt Nock
