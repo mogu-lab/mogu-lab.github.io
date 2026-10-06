@@ -4,18 +4,18 @@
       <div class="row">
         <div class="col-sm-2 abbr">
         {%- if entry.abbr -%}
-	{%- assign venues = entry.abbr | | split: ", " -%}
-	{%- for venu in venues -%}
+    {%- assign venues = entry.abbr | split: ", " -%}
+    {%- for venu in venues -%}
           {%- if site.data.venues[venu] -%}
           <abbr class="badge"><a target="_blank" href="{{site.data.venues[venu].url}}">
-	      {% if entry.insubmission == "yes" and forloop.first %} Submitted: {% endif %} {{venu}}
-	  </a></abbr>
+          {{venu}}
+      </a></abbr>
           {%- else -%}
           <abbr class="badge">
-	    {% if entry.insubmission == "yes" and forloop.first %} Submitted: {% endif %} {{venu}}
-	  </abbr>
+        {{venu}}
+      </abbr>
           {%- endif -%}
-	{%- endfor -%}
+    {%- endfor -%}
         {%- endif -%}
         </div>
 
@@ -30,7 +30,7 @@
           <div class="author">
           {%- for author in entry.author_array -%}
             {%- assign author_is_self = false -%}
-	    {%- assign true_last_name = author.last | replace: "*", "" -%}
+        {%- assign true_last_name = author.last | replace: "*", "" -%}
             {%- if true_last_name == site.scholar.last_name%}
               {%- if site.scholar.first_name contains author.first -%}
                 {%- assign author_is_self = true -%}
@@ -42,16 +42,16 @@
               {%- for coauthor in site.data.coauthors[true_last_name] -%}
                 {%- if coauthor.firstname contains author.first -%}
                   {%- assign coauthor_url = coauthor.url -%}
-	          {% capture mentee_class %}{% if coauthor.status == 'P' %}class="phd"{% elsif coauthor.status == 'M' %}class="masters"{% elsif coauthor.status == 'U' %}class="undergrad"{% endif %}{% endcapture %}
+              {% capture mentee_class %}{% if coauthor.status == 'P' %}class="phd"{% elsif coauthor.status == 'M' %}class="masters"{% elsif coauthor.status == 'U' %}class="undergrad"{% endif %}{% endcapture %}
                   {%- break -%}
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-	    
-	    {% capture eq_authorship %}{% if author.last != true_last_name %}*{% endif %}{% endcapture %}
-	    <!-- Define format for author names -->
-	    {% capture full_name %}{{ eq_authorship }}{{ author.first | slice: 0 }} {{ true_last_name }}{% endcapture %}
-          
+
+        {% capture eq_authorship %}{% if author.last != true_last_name %}*{% endif %}{% endcapture %}
+        <!-- Define format for author names -->
+        {% capture full_name %}{{ eq_authorship }}{{ author.first | slice: 0 }} {{ true_last_name }}{% endcapture %}
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em><strong>{{ full_name }}</strong></em>
@@ -105,46 +105,46 @@
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
 
           <!-- Workshop title and date -->
-	  {% if entry.workshop_title %}
+      {% if entry.workshop_title %}
           {%- if entry.workshop_month -%}
             {%- capture workshopmonth -%}{{ " " }}{{ entry.workshop_month | capitalize }}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.workshop_year -%}
             {%- capture workshopyear -%}{{ " " }}{{entry.workshop_year}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture workshopperiodical -%}<em>{{ entry.workshop_title }}</em> {{ workshopmonth }}{{ workshopyear }}{%- endcapture -%}	  
-	  {% endif %}	  
-	  
+          {%- capture workshopperiodical -%}<em>{{ entry.workshop_title }}</em> {{ workshopmonth }}{{ workshopyear }}{%- endcapture -%}
+      {% endif %}
+
           <div class="periodical">
-	    {% if entry.insubmission == "yes" %} In submission @ {% elsif entry.insubmission == "no" %} Full paper on {% else %} Accepted @ {% endif %} {{ periodical | strip }}
-	    {%- if entry.presentation_type %}
+        {% if entry.insubmission == "yes" %} Under Submission, {% elsif entry.insubmission == "no" %} Full paper on {% else %} Accepted @ {% endif %} {{ periodical | strip }}
+        {%- if entry.presentation_type %}
               {% if entry.presentation_url contains '://' -%}
-	        <abbr class="badge talk"><a target="_blank" href="{{ entry.presentation_url }}">{{ entry.presentation_type }}</a></abbr>
+            <abbr class="badge talk"><a target="_blank" href="{{ entry.presentation_url }}">{{ entry.presentation_type }}</a></abbr>
               {%- else -%}
-		<abbr class="badge talk">{{ entry.presentation_type }}</abbr>
+        <abbr class="badge talk">{{ entry.presentation_type }}</abbr>
               {%- endif %}
             {%- endif %}
 
-	    {% if entry.workshop_title %}
-	    <br/>
-	    Previous version accepted @ {{ workshopperiodical | strip }}
-	    {%- if entry.workshop_presentation_type %}
+        {% if entry.workshop_title %}
+        <br/>
+        Previous version accepted @ {{ workshopperiodical | strip }}
+        {%- if entry.workshop_presentation_type %}
               {% if entry.workshop_presentation_url contains '://' -%}
-	        <abbr class="badge talk"><a target="_blank" href="{{ entry.workshop_presentation_url }}">{{ entry.workshop_presentation_type }}</a></abbr>
+            <abbr class="badge talk"><a target="_blank" href="{{ entry.workshop_presentation_url }}">{{ entry.workshop_presentation_type }}</a></abbr>
               {%- else -%}
-		<abbr class="badge talk">{{ entry.workshop_presentation_type }}</abbr>
+        <abbr class="badge talk">{{ entry.workshop_presentation_type }}</abbr>
               {%- endif %}
-            {%- endif %}	    
-	    {% endif %}
+            {%- endif %}
+        {% endif %}
           </div>
           {%- endif %}
 
-          {% if entry.note %}	  
+          {% if entry.note %}
           <div class="periodical">
-	    {{ entry.note }}
-	  </div>
+        {{ entry.note }}
+      </div>
           {% endif %}
-          
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -195,7 +195,7 @@
           {%- endif %}
           {%- if entry.website %}
             <a target="_blank" href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
-          {%- endif %}	    
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}
